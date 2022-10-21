@@ -1,0 +1,975 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\dediServer.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{7C377160-0BED-4EB5-9DA0-C69045F38190}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\dediServer.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\dediServerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\dediServerServer.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{30B3EB3B-3657-4220-88F6-06C887081B0A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\logSwitch.txt">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\steamvr_ue_editor_app.json">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\tcp.txt">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\uid.txt">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Config\SteamVRBindings">
+      <UniqueIdentifier>{967269BD-2C84-4846-8D80-5201450DDD58}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\SteamVRBindings\gamepad.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\holographic_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\hpmotioncontroller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\indexhmd.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\knuckles.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\oculus_touch.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\rift.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\steamvr_manifest.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_cosmos_controller.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_pro.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_camera.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_chest.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_handed.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_keyboard.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_left_elbow.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_left_foot.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_left_knee.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_left_shoulder.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_right_elbow.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_right_foot.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_right_knee.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_right_shoulder.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <None Include="..\..\Config\SteamVRBindings\vive_tracker_waist.json">
+      <Filter>Config\SteamVRBindings</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{1DCEA1CF-F43A-4E04-8F95-F08261393FFC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AIHumanComm">
+      <UniqueIdentifier>{F2F138EB-E823-4400-B5D7-A5299D30C292}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AIHumanComm\Source">
+      <UniqueIdentifier>{2CB3B300-4567-4F4E-B274-BC736CD63C90}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AIHumanComm\Source\AIHumanComm">
+      <UniqueIdentifier>{70DCB0DA-CB1A-4414-9884-9D165B8FD2FB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AIHumanComm\Source\AIHumanComm\AIHumanComm.Build.cs">
+      <Filter>Plugins\AIHumanComm\Source\AIHumanComm</Filter>
+    </None>
+    <Filter Include="Plugins\AIHumanComm\Source\AIHumanComm\Classes">
+      <UniqueIdentifier>{4A2F6220-C498-406B-8843-08CB2CE76F84}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\AIHumanComm\Source\AIHumanComm\Classes\AIHumanCommReceiver.h">
+      <Filter>Plugins\AIHumanComm\Source\AIHumanComm\Classes</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\AIHumanComm\Source\AIHumanComm\Private">
+      <UniqueIdentifier>{E78F08D0-4BBD-489A-9B0A-1D9505F80D86}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\AIHumanComm\Source\AIHumanComm\Private\AIHumanComm.cpp">
+      <Filter>Plugins\AIHumanComm\Source\AIHumanComm\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AIHumanComm\Source\AIHumanComm\Private\AIHumanCommBPLibrary.cpp">
+      <Filter>Plugins\AIHumanComm\Source\AIHumanComm\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AIHumanComm\Source\AIHumanComm\Private\AIHumanCommReceiver.cpp">
+      <Filter>Plugins\AIHumanComm\Source\AIHumanComm\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\AIHumanComm\Source\AIHumanComm\Public">
+      <UniqueIdentifier>{AEF7D8D3-5F27-4174-8174-A22F7DE491CD}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\AIHumanComm\Source\AIHumanComm\Public\AIHumanComm.h">
+      <Filter>Plugins\AIHumanComm\Source\AIHumanComm\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AIHumanComm\Source\AIHumanComm\Public\AIHumanCommBPLibrary.h">
+      <Filter>Plugins\AIHumanComm\Source\AIHumanComm\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\AIHumanComm\AIHumanComm.uplugin">
+      <Filter>Plugins\AIHumanComm</Filter>
+    </None>
+    <Filter Include="Plugins\AIHumanComm\Resources">
+      <UniqueIdentifier>{94551B99-CE90-4A16-8070-13D53474BAD6}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AIHumanComm\Resources\Icon128.png">
+      <Filter>Plugins\AIHumanComm\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\AnimatedTexturePlugin">
+      <UniqueIdentifier>{999AA7B1-A1EA-4EC9-9F0A-1E22380A2B0B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AnimatedTexturePlugin\AnimatedTexture.uplugin">
+      <Filter>Plugins\AnimatedTexturePlugin</Filter>
+    </None>
+    <Filter Include="Plugins\AnimatedTexturePlugin\Config">
+      <UniqueIdentifier>{9BE1024E-500A-44A3-AFDB-0F450783987A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AnimatedTexturePlugin\Config\FilterPlugin.ini">
+      <Filter>Plugins\AnimatedTexturePlugin\Config</Filter>
+    </None>
+    <Filter Include="Plugins\AnimatedTexturePlugin\Resources">
+      <UniqueIdentifier>{22C4B5F2-40F8-462C-8358-3D16D922E6BC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AnimatedTexturePlugin\Resources\Icon128.png">
+      <Filter>Plugins\AnimatedTexturePlugin\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\AnimatedTexturePlugin\Resources\Icon284.png">
+      <Filter>Plugins\AnimatedTexturePlugin\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\CamControl">
+      <UniqueIdentifier>{CEB22324-45EA-4135-9199-8DE9F58A5008}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CamControl\CamControl.uplugin">
+      <Filter>Plugins\CamControl</Filter>
+    </None>
+    <Filter Include="Plugins\CamControl\Config">
+      <UniqueIdentifier>{5A10909C-1253-4E5C-B4B5-C558FBEED7D7}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CamControl\Config\FilterPlugin.ini">
+      <Filter>Plugins\CamControl\Config</Filter>
+    </None>
+    <Filter Include="Plugins\CamControl\Resources">
+      <UniqueIdentifier>{10F8C6BB-C093-480C-83E0-B74594A752CD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CamControl\Resources\Icon128.png">
+      <Filter>Plugins\CamControl\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\CrossInteractionReceiver">
+      <UniqueIdentifier>{E963B70C-A263-44E8-A1A4-FD79EAA060F4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CrossInteractionReceiver\CrossInteractionReceiver.uplugin">
+      <Filter>Plugins\CrossInteractionReceiver</Filter>
+    </None>
+    <Filter Include="Plugins\CrossInteractionReceiver\Resources">
+      <UniqueIdentifier>{2E2F8B93-C652-45B6-838E-B39AD1A1CB73}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CrossInteractionReceiver\Resources\Icon128.png">
+      <Filter>Plugins\CrossInteractionReceiver\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\CrossInteraction">
+      <UniqueIdentifier>{5E3ACF60-9709-4968-8CBC-F74C8F2C73A2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CrossInteraction\CrossInteraction.uplugin">
+      <Filter>Plugins\CrossInteraction</Filter>
+    </None>
+    <Filter Include="Plugins\CrossInteraction\Config">
+      <UniqueIdentifier>{B64CB6D2-61B9-4C1F-B875-9EF072999B41}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CrossInteraction\Config\FilterPlugin.ini">
+      <Filter>Plugins\CrossInteraction\Config</Filter>
+    </None>
+    <Filter Include="Plugins\CrossInteraction\Resources">
+      <UniqueIdentifier>{42F1D538-8288-4ECD-AE99-525C1E3F8FC2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CrossInteraction\Resources\Icon128.png">
+      <Filter>Plugins\CrossInteraction\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\DSControl">
+      <UniqueIdentifier>{D023D77D-A888-4E61-AE4E-0ADA623E1461}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DSControl\DSControl.uplugin">
+      <Filter>Plugins\DSControl</Filter>
+    </None>
+    <Filter Include="Plugins\DSControl\Config">
+      <UniqueIdentifier>{F9BBA301-EF7B-44BD-85D7-CEAC9521C2E4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DSControl\Config\FilterPlugin.ini">
+      <Filter>Plugins\DSControl\Config</Filter>
+    </None>
+    <Filter Include="Plugins\DSControl\Resources">
+      <UniqueIdentifier>{5C9944CC-8AAC-4B69-A169-779AB846D8C9}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DSControl\Resources\Icon128.png">
+      <Filter>Plugins\DSControl\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\KawaiiPhysics">
+      <UniqueIdentifier>{41D921B9-6FC3-4529-8F4D-1522EB6F8B78}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\KawaiiPhysics\KawaiiPhysics.uplugin">
+      <Filter>Plugins\KawaiiPhysics</Filter>
+    </None>
+    <Filter Include="Plugins\KawaiiPhysics\Resources">
+      <UniqueIdentifier>{482059EF-1467-4953-8CD3-B105BFEFB02F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\KawaiiPhysics\Resources\Icon128.png">
+      <Filter>Plugins\KawaiiPhysics\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\LightControl">
+      <UniqueIdentifier>{8BD1A3DF-DFEE-447A-8A8D-79EF14AD2A86}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\LightControl\LightControl.uplugin">
+      <Filter>Plugins\LightControl</Filter>
+    </None>
+    <Filter Include="Plugins\LightControl\Config">
+      <UniqueIdentifier>{E291BD93-3517-48DD-A11D-5471A1983B53}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\LightControl\Config\FilterPlugin.ini">
+      <Filter>Plugins\LightControl\Config</Filter>
+    </None>
+    <Filter Include="Plugins\LightControl\Resources">
+      <UniqueIdentifier>{E2AB61AB-30BD-445B-9C62-7083D19201BA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\LightControl\Resources\Icon128.png">
+      <Filter>Plugins\LightControl\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\UDPCommunication">
+      <UniqueIdentifier>{597E4C98-64BD-4388-BFC5-C5750CDFA3DB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\UDPCommunication\UDPCommunication">
+      <UniqueIdentifier>{82906FF7-91D8-49E4-8203-AAD48D1D1B18}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UDPCommunication\UDPCommunication\UDPCommunication.uplugin">
+      <Filter>Plugins\UDPCommunication\UDPCommunication</Filter>
+    </None>
+    <Filter Include="Plugins\UDPCommunication\UDPCommunication\Config">
+      <UniqueIdentifier>{2F9F6EDC-6C04-4142-86EC-89D56B083FBB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UDPCommunication\UDPCommunication\Config\FilterPlugin.ini">
+      <Filter>Plugins\UDPCommunication\UDPCommunication\Config</Filter>
+    </None>
+    <Filter Include="Plugins\UDPCommunication\UDPCommunication\Resources">
+      <UniqueIdentifier>{0B51F945-2067-47EB-A04E-F08057D00C26}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UDPCommunication\UDPCommunication\Resources\Icon128.png">
+      <Filter>Plugins\UDPCommunication\UDPCommunication\Resources</Filter>
+    </None>
+    <None Include="..\..\Plugins\UDPCommunication\UDPCommunication\Resources\udp.png">
+      <Filter>Plugins\UDPCommunication\UDPCommunication\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\VlcMedia-master">
+      <UniqueIdentifier>{BE6EA197-80B7-4A61-8746-28E2B5275CDA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VlcMedia-master\VlcMedia.uplugin">
+      <Filter>Plugins\VlcMedia-master</Filter>
+    </None>
+    <Filter Include="Plugins\VlcMedia-master\Resources">
+      <UniqueIdentifier>{93F711DD-7865-4988-80AF-1C9BE2390E51}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VlcMedia-master\Resources\Icon128.png">
+      <Filter>Plugins\VlcMedia-master\Resources</Filter>
+    </None>
+    <Filter Include="Plugins\AnimatedTexturePlugin\Source">
+      <UniqueIdentifier>{6D80428D-B5C5-4AA7-B59B-4FEB27FE054B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\AnimatedTexturePlugin\Source\AnimatedTexture">
+      <UniqueIdentifier>{646CF185-5921-4BEB-A6CE-72C4B5532CC2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\AnimatedTexture.Build.cs">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture</Filter>
+    </None>
+    <Filter Include="Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private">
+      <UniqueIdentifier>{C5C6D71A-FF02-4AD5-8996-A8130B988A04}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\AnimatedGIF.cpp">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\AnimatedGIF.h">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\AnimatedTexture2D.cpp">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\AnimatedTextureModule.cpp">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\AnimatedTextureResource.cpp">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\AnimatedTextureResource.h">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\MaterialExpressionTextureSampleParameterAnim.cpp">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib">
+      <UniqueIdentifier>{6DB2FA6E-47FC-453C-A13C-32E8913C4282}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib\build.adoc">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib</Filter>
+    </None>
+    <None Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib\ChangeLog">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib</Filter>
+    </None>
+    <None Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib\control">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib</Filter>
+    </None>
+    <None Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib\COPYING">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib</Filter>
+    </None>
+    <None Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib\dgif_lib.c">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib</Filter>
+    </None>
+    <None Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib\getversion">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib</Filter>
+    </None>
+    <None Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib\gifalloc.c">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib</Filter>
+    </None>
+    <None Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib\gif_err.c">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib</Filter>
+    </None>
+    <None Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib\gif_hash.c">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib</Filter>
+    </None>
+    <ClInclude Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib\gif_hash.h">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib\gif_lib.h">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib\gif_lib_private.h">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib\history.adoc">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib</Filter>
+    </None>
+    <None Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib\NEWS">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib</Filter>
+    </None>
+    <None Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib\openbsd-reallocarray.c">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib</Filter>
+    </None>
+    <None Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib\README">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib</Filter>
+    </None>
+    <None Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib\TODO">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Private\giflib</Filter>
+    </None>
+    <Filter Include="Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Public">
+      <UniqueIdentifier>{3513E572-0FE5-41ED-AD63-261655EE3D65}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Public\AnimatedTexture2D.h">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Public\AnimatedTextureModule.h">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Public\MaterialExpressionTextureSampleParameterAnim.h">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTexture\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor">
+      <UniqueIdentifier>{8C8F0C96-7B14-4178-A994-98499F6D9FB8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor\AnimatedTextureEditor.Build.cs">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor</Filter>
+    </None>
+    <Filter Include="Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor\Private">
+      <UniqueIdentifier>{5DA2C074-B777-4E8A-B26A-F53F4CD9A0F4}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor\Private\AnimatedTextureEditorModule.cpp">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor\Private\AnimatedTextureFactory.cpp">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor\Private\AnimatedTextureThumbnailRenderer.cpp">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor\Private\ReimportAnimatedTextureFactory.cpp">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor\Public">
+      <UniqueIdentifier>{CF45B81B-8196-41E9-9107-2697DA1B7BA1}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor\Public\AnimatedTextureEditorModule.h">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor\Public\AnimatedTextureFactory.h">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor\Public\AnimatedTextureThumbnailRenderer.h">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor\Public\ReimportAnimatedTextureFactory.h">
+      <Filter>Plugins\AnimatedTexturePlugin\Source\AnimatedTextureEditor\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\CamControl\Source">
+      <UniqueIdentifier>{1383C8B6-2631-4DAB-B65C-90FFFBC3CEC8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CamControl\Source\CamControl">
+      <UniqueIdentifier>{8776227B-D103-4E05-9657-D9E38F654AFB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CamControl\Source\CamControl\CamControl.Build.cs">
+      <Filter>Plugins\CamControl\Source\CamControl</Filter>
+    </None>
+    <Filter Include="Plugins\CamControl\Source\CamControl\Classes">
+      <UniqueIdentifier>{C3C7C963-2D06-4A87-ABB3-E81DD7291EBB}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\CamControl\Source\CamControl\Classes\CamDataReceiver.h">
+      <Filter>Plugins\CamControl\Source\CamControl\Classes</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\CamControl\Source\CamControl\Private">
+      <UniqueIdentifier>{4C098733-697D-4AC2-8F09-57F0FD6420EC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\CamControl\Source\CamControl\Private\CamControl.cpp">
+      <Filter>Plugins\CamControl\Source\CamControl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CamControl\Source\CamControl\Private\CamControlBPLibrary.cpp">
+      <Filter>Plugins\CamControl\Source\CamControl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CamControl\Source\CamControl\Private\CamDataReceiver.cpp">
+      <Filter>Plugins\CamControl\Source\CamControl\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\CamControl\Source\CamControl\Public">
+      <UniqueIdentifier>{D4897BE4-9789-4D66-B187-0173A4965B15}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\CamControl\Source\CamControl\Public\CamControl.h">
+      <Filter>Plugins\CamControl\Source\CamControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CamControl\Source\CamControl\Public\CamControlBPLibrary.h">
+      <Filter>Plugins\CamControl\Source\CamControl\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\CrossInteractionReceiver\Source">
+      <UniqueIdentifier>{6A8CCE7B-3F28-401F-A652-01EDC410BA51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CrossInteractionReceiver\Source\CrossInteractionReceiver">
+      <UniqueIdentifier>{0A406E0E-F598-40FD-991E-BC73F6F2F452}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CrossInteractionReceiver\Source\CrossInteractionReceiver\CrossInteractionReceiver.Build.cs">
+      <Filter>Plugins\CrossInteractionReceiver\Source\CrossInteractionReceiver</Filter>
+    </None>
+    <Filter Include="Plugins\CrossInteractionReceiver\Source\CrossInteractionReceiver\Classes">
+      <UniqueIdentifier>{EA776EC4-54CF-4165-8AB8-4D6E859EDC7F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\CrossInteractionReceiver\Source\CrossInteractionReceiver\Classes\CIReceiver.h">
+      <Filter>Plugins\CrossInteractionReceiver\Source\CrossInteractionReceiver\Classes</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\CrossInteractionReceiver\Source\CrossInteractionReceiver\Private">
+      <UniqueIdentifier>{4A6362C7-6D1D-4063-AD8C-46D28EBE9011}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\CrossInteractionReceiver\Source\CrossInteractionReceiver\Private\CIReceiver.cpp">
+      <Filter>Plugins\CrossInteractionReceiver\Source\CrossInteractionReceiver\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CrossInteractionReceiver\Source\CrossInteractionReceiver\Private\CrossInteractionReceiver.cpp">
+      <Filter>Plugins\CrossInteractionReceiver\Source\CrossInteractionReceiver\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CrossInteractionReceiver\Source\CrossInteractionReceiver\Private\CrossInteractionReceiverBPLibrary.cpp">
+      <Filter>Plugins\CrossInteractionReceiver\Source\CrossInteractionReceiver\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\CrossInteractionReceiver\Source\CrossInteractionReceiver\Public">
+      <UniqueIdentifier>{FC027F9F-D58C-4AAE-998A-396168EF5A68}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\CrossInteractionReceiver\Source\CrossInteractionReceiver\Public\CrossInteractionReceiver.h">
+      <Filter>Plugins\CrossInteractionReceiver\Source\CrossInteractionReceiver\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CrossInteractionReceiver\Source\CrossInteractionReceiver\Public\CrossInteractionReceiverBPLibrary.h">
+      <Filter>Plugins\CrossInteractionReceiver\Source\CrossInteractionReceiver\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\CrossInteraction\Source">
+      <UniqueIdentifier>{67D75D30-D4DC-4F3C-A2D3-10F5F2D560F8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\CrossInteraction\Source\CrossInteraction">
+      <UniqueIdentifier>{E052C897-73B0-4BD3-9887-CAF416982521}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\CrossInteraction\Source\CrossInteraction\CrossInteraction.Build.cs">
+      <Filter>Plugins\CrossInteraction\Source\CrossInteraction</Filter>
+    </None>
+    <Filter Include="Plugins\CrossInteraction\Source\CrossInteraction\Classes">
+      <UniqueIdentifier>{B214FD09-BC82-4793-8B65-0A485061E54D}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\CrossInteraction\Source\CrossInteraction\Classes\CrossInteractionData.h">
+      <Filter>Plugins\CrossInteraction\Source\CrossInteraction\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CrossInteraction\Source\CrossInteraction\Classes\CrossInteractionDataReceiver.h">
+      <Filter>Plugins\CrossInteraction\Source\CrossInteraction\Classes</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\CrossInteraction\Source\CrossInteraction\Private">
+      <UniqueIdentifier>{337FB033-89EE-4574-B25B-2F0AE515922D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\CrossInteraction\Source\CrossInteraction\Private\CrossInteraction.cpp">
+      <Filter>Plugins\CrossInteraction\Source\CrossInteraction\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CrossInteraction\Source\CrossInteraction\Private\CrossInteractionBPLibrary.cpp">
+      <Filter>Plugins\CrossInteraction\Source\CrossInteraction\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\CrossInteraction\Source\CrossInteraction\Private\CrossInteractionDataReceiver.cpp">
+      <Filter>Plugins\CrossInteraction\Source\CrossInteraction\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\CrossInteraction\Source\CrossInteraction\Public">
+      <UniqueIdentifier>{A610601B-F7C9-48C2-B590-81FF93F782D9}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\CrossInteraction\Source\CrossInteraction\Public\CrossInteraction.h">
+      <Filter>Plugins\CrossInteraction\Source\CrossInteraction\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\CrossInteraction\Source\CrossInteraction\Public\CrossInteractionBPLibrary.h">
+      <Filter>Plugins\CrossInteraction\Source\CrossInteraction\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\DSControl\Source">
+      <UniqueIdentifier>{C91A6F84-5D0A-4B4D-94C1-481593D85858}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\DSControl\Source\DSControl">
+      <UniqueIdentifier>{8BD35B17-F631-413C-86F9-FE156C3BD3EA}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\DSControl\Source\DSControl\DSControl.Build.cs">
+      <Filter>Plugins\DSControl\Source\DSControl</Filter>
+    </None>
+    <Filter Include="Plugins\DSControl\Source\DSControl\Classes">
+      <UniqueIdentifier>{4F90C70D-BFA7-4A8B-9BC6-488A17FD35F8}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\DSControl\Source\DSControl\Classes\DSControlData.h">
+      <Filter>Plugins\DSControl\Source\DSControl\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\DSControl\Source\DSControl\Classes\DSControlDataReceiver.h">
+      <Filter>Plugins\DSControl\Source\DSControl\Classes</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\DSControl\Source\DSControl\Private">
+      <UniqueIdentifier>{0931F08C-F113-492A-9F36-FFA9EE469083}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\DSControl\Source\DSControl\Private\DSControl.cpp">
+      <Filter>Plugins\DSControl\Source\DSControl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\DSControl\Source\DSControl\Private\DSControlBPLibrary.cpp">
+      <Filter>Plugins\DSControl\Source\DSControl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\DSControl\Source\DSControl\Private\DSControlDataReceiver.cpp">
+      <Filter>Plugins\DSControl\Source\DSControl\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\DSControl\Source\DSControl\Public">
+      <UniqueIdentifier>{FD344356-13B7-4D41-AE17-F3216751209B}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\DSControl\Source\DSControl\Public\DSControl.h">
+      <Filter>Plugins\DSControl\Source\DSControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\DSControl\Source\DSControl\Public\DSControlBPLibrary.h">
+      <Filter>Plugins\DSControl\Source\DSControl\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\KawaiiPhysics\Source">
+      <UniqueIdentifier>{43F60BA9-8496-44F5-A386-0A9869AA3B7C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\KawaiiPhysics\Source\KawaiiPhysics">
+      <UniqueIdentifier>{328913FD-EDBF-42FA-8407-988EAA7CD083}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\KawaiiPhysics\Source\KawaiiPhysics\KawaiiPhysics.Build.cs">
+      <Filter>Plugins\KawaiiPhysics\Source\KawaiiPhysics</Filter>
+    </None>
+    <Filter Include="Plugins\KawaiiPhysics\Source\KawaiiPhysics\Private">
+      <UniqueIdentifier>{FF615E79-A5FE-4CCE-8409-5826A0280EB8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\KawaiiPhysics\Source\KawaiiPhysics\Private\AnimNode_KawaiiPhysics.cpp">
+      <Filter>Plugins\KawaiiPhysics\Source\KawaiiPhysics\Private</Filter>
+    </ClCompile>
+    <None Include="..\..\Plugins\KawaiiPhysics\Source\KawaiiPhysics\Private\AnimNode_KawaiiPhysics.cpp.bak">
+      <Filter>Plugins\KawaiiPhysics\Source\KawaiiPhysics\Private</Filter>
+    </None>
+    <ClCompile Include="..\..\Plugins\KawaiiPhysics\Source\KawaiiPhysics\Private\KawaiiPhysics.cpp">
+      <Filter>Plugins\KawaiiPhysics\Source\KawaiiPhysics\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\KawaiiPhysics\Source\KawaiiPhysics\Private\KawaiiPhysicsLimitsDataAsset.cpp">
+      <Filter>Plugins\KawaiiPhysics\Source\KawaiiPhysics\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\KawaiiPhysics\Source\KawaiiPhysics\Public">
+      <UniqueIdentifier>{FCF5CC65-2119-4F21-8A00-CDC4921C2439}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\KawaiiPhysics\Source\KawaiiPhysics\Public\AnimNode_KawaiiPhysics.h">
+      <Filter>Plugins\KawaiiPhysics\Source\KawaiiPhysics\Public</Filter>
+    </ClInclude>
+    <None Include="..\..\Plugins\KawaiiPhysics\Source\KawaiiPhysics\Public\AnimNode_KawaiiPhysics.h.bak">
+      <Filter>Plugins\KawaiiPhysics\Source\KawaiiPhysics\Public</Filter>
+    </None>
+    <ClInclude Include="..\..\Plugins\KawaiiPhysics\Source\KawaiiPhysics\Public\KawaiiPhysics.h">
+      <Filter>Plugins\KawaiiPhysics\Source\KawaiiPhysics\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\KawaiiPhysics\Source\KawaiiPhysics\Public\KawaiiPhysicsLimitsDataAsset.h">
+      <Filter>Plugins\KawaiiPhysics\Source\KawaiiPhysics\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd">
+      <UniqueIdentifier>{0AF7DBBB-C96B-40BE-849F-0104BD97C9A4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd\KawaiiPhysicsEd.Build.cs">
+      <Filter>Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd</Filter>
+    </None>
+    <Filter Include="Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd\Private">
+      <UniqueIdentifier>{38982D68-0E3A-4BB9-A66C-81970EE5ABFF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd\Private\AnimGraphNode_KawaiiPhysics.cpp">
+      <Filter>Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd\Private\KawaiiPhysicsEd.cpp">
+      <Filter>Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd\Private\KawaiiPhysicsEditMode.cpp">
+      <Filter>Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd\Private\KawaiiPhysicsEditModeBase.cpp">
+      <Filter>Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd\Public">
+      <UniqueIdentifier>{6E1B23EA-9C57-4A4A-B6BC-D55B7DEF1250}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd\Public\AnimGraphNode_KawaiiPhysics.h">
+      <Filter>Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd\Public\KawaiiPhysicsEd.h">
+      <Filter>Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd\Public\KawaiiPhysicsEditMode.h">
+      <Filter>Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd\Public\KawaiiPhysicsEditModeBase.h">
+      <Filter>Plugins\KawaiiPhysics\Source\KawaiiPhysicsEd\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\LightControl\Source">
+      <UniqueIdentifier>{4F1822B6-5241-4B42-B01E-ECB24EF86D8E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\LightControl\Source\LightControl">
+      <UniqueIdentifier>{F37930C5-09E1-448D-8E80-E14DFD9EEC04}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\LightControl\Source\LightControl\LightControl.Build.cs">
+      <Filter>Plugins\LightControl\Source\LightControl</Filter>
+    </None>
+    <Filter Include="Plugins\LightControl\Source\LightControl\Classes">
+      <UniqueIdentifier>{28CE4F8C-7506-4969-BE8F-5E6FA5452C0F}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\LightControl\Source\LightControl\Classes\DMXDataRedirector.h">
+      <Filter>Plugins\LightControl\Source\LightControl\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LightControl\Source\LightControl\Classes\LightData.h">
+      <Filter>Plugins\LightControl\Source\LightControl\Classes</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LightControl\Source\LightControl\Classes\LightDataReceiver.h">
+      <Filter>Plugins\LightControl\Source\LightControl\Classes</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\LightControl\Source\LightControl\Private">
+      <UniqueIdentifier>{873F5630-2F1F-4806-8351-12A02C18221B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\LightControl\Source\LightControl\Private\DMXDataRedirector.cpp">
+      <Filter>Plugins\LightControl\Source\LightControl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LightControl\Source\LightControl\Private\LightControl.cpp">
+      <Filter>Plugins\LightControl\Source\LightControl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LightControl\Source\LightControl\Private\LightControlBPLibrary.cpp">
+      <Filter>Plugins\LightControl\Source\LightControl\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\LightControl\Source\LightControl\Private\LightDataReceiver.cpp">
+      <Filter>Plugins\LightControl\Source\LightControl\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\LightControl\Source\LightControl\Public">
+      <UniqueIdentifier>{077E9DFB-910F-40B0-B5D3-38C5981B0A4E}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\LightControl\Source\LightControl\Public\LightControl.h">
+      <Filter>Plugins\LightControl\Source\LightControl\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\LightControl\Source\LightControl\Public\LightControlBPLibrary.h">
+      <Filter>Plugins\LightControl\Source\LightControl\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UDPCommunication\UDPCommunication\Source">
+      <UniqueIdentifier>{B839441E-4CE6-44DF-B683-88C6D9DBCD01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication">
+      <UniqueIdentifier>{27045F3C-80CF-408B-AD08-6FDB22AF42BB}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\UDPCommunication.Build.cs">
+      <Filter>Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication</Filter>
+    </None>
+    <Filter Include="Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\.vs">
+      <UniqueIdentifier>{1F13C8A0-C49F-483B-B645-BA84FA445218}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\.vs\ProjectSettings.json">
+      <Filter>Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\.vs</Filter>
+    </None>
+    <None Include="..\..\Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\.vs\slnx.sqlite">
+      <Filter>Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\.vs</Filter>
+    </None>
+    <None Include="..\..\Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\.vs\VSWorkspaceState.json">
+      <Filter>Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\.vs</Filter>
+    </None>
+    <Filter Include="Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\.vs\UDPCommunication">
+      <UniqueIdentifier>{6AAE3AFA-3B80-48F6-A3DC-961F32C9B031}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\.vs\UDPCommunication\v16">
+      <UniqueIdentifier>{4C1E83B3-300C-4C82-A3B7-F536278C1182}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\.vs\UDPCommunication\v16\Browse.VC.db">
+      <Filter>Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\.vs\UDPCommunication\v16</Filter>
+    </None>
+    <Filter Include="Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\Classes">
+      <UniqueIdentifier>{036BE43E-2CA9-46BC-A28A-62EAEC2ED1EE}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\Classes\UDPData.h">
+      <Filter>Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\Classes</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\Private">
+      <UniqueIdentifier>{46C9E3E6-2193-4743-A21C-F015C29650FC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\Private\UDPCommunication.cpp">
+      <Filter>Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\Private\UDPReceiver.cpp">
+      <Filter>Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\Private\UDPReceiver.h">
+      <Filter>Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\Private\UDPSender.cpp">
+      <Filter>Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\Private\UDPSender.h">
+      <Filter>Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\Public">
+      <UniqueIdentifier>{9F61A3F4-DBC5-4A25-B156-AFFAE44ABD2C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\Public\tcpReceiver.h">
+      <Filter>Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\Public\UDPCommunication.h">
+      <Filter>Plugins\UDPCommunication\UDPCommunication\Source\UDPCommunication\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VlcMedia-master\Source">
+      <UniqueIdentifier>{AA78DD78-AB82-45B9-925B-5A460D6FB04B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMedia">
+      <UniqueIdentifier>{5789A21E-1D2C-45E9-B518-3EB8EE1A9EA2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\VlcMedia.Build.cs">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia</Filter>
+    </None>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMedia\Private">
+      <UniqueIdentifier>{1E419646-C053-45ED-844D-1BE03A0C9EA1}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\VlcMediaModule.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\VlcMediaPrivate.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMedia\Private\Player">
+      <UniqueIdentifier>{91163209-BF64-4ADA-AE55-875BD5706192}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaAudioSample.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaCallbacks.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaCallbacks.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaPlayer.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaPlayer.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaSource.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaSource.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaTextureSample.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaTracks.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaTracks.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaView.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Player\VlcMediaView.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Player</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMedia\Private\Shared">
+      <UniqueIdentifier>{EB359BE3-918A-49D1-A994-31047CFC1CFC}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Shared\VlcMediaUtils.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Shared</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Shared\VlcMediaUtils.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Shared</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMedia\Private\Vlc">
+      <UniqueIdentifier>{C0770770-86E9-4007-B6BB-A18267AA5DC9}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Vlc\Vlc.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Vlc</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Vlc\Vlc.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Vlc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Vlc\VlcImports.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Vlc</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Private\Vlc\VlcTypes.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Private\Vlc</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMedia\Public">
+      <UniqueIdentifier>{9F9EA48E-6639-4922-9DC6-7677FE2E0911}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMedia\Public\IVlcMediaModule.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMedia\Public</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMediaEditor">
+      <UniqueIdentifier>{ECD96AB0-5510-4C6D-94AD-2584075F9EBC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VlcMedia-master\Source\VlcMediaEditor\VlcMediaEditor.Build.cs">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMediaEditor</Filter>
+    </None>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMediaEditor\Private">
+      <UniqueIdentifier>{CC144C30-DF89-4DE4-9A64-716BEFCF4E20}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMediaEditor\Private\VlcFileMediaSourceFactory.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMediaEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMediaEditor\Private\VlcFileMediaSourceFactory.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMediaEditor\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMediaEditor\Private\VlcMediaEditorModule.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMediaEditor\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMediaEditor\Private\VlcMediaEditorPrivate.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMediaEditor\Private</Filter>
+    </ClInclude>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMediaFactory">
+      <UniqueIdentifier>{D9858787-6BD1-499B-8E67-F7434049EF96}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\VlcMedia-master\Source\VlcMediaFactory\VlcMediaFactory.Build.cs">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMediaFactory</Filter>
+    </None>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMediaFactory\Private">
+      <UniqueIdentifier>{D7BBFDBE-716B-4CE6-A322-0711D56CBC65}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMediaFactory\Private\VlcMediaFactoryModule.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMediaFactory\Private</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMediaFactory\Private\VlcMediaFactoryPrivate.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMediaFactory\Private</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Plugins\VlcMedia-master\Source\VlcMediaFactory\Private\VlcMediaFactorySettings.cpp">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMediaFactory\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\VlcMedia-master\Source\VlcMediaFactory\Public">
+      <UniqueIdentifier>{97ACC088-49AE-41AD-B6FA-A95F5D1ABAB6}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Plugins\VlcMedia-master\Source\VlcMediaFactory\Public\VlcMediaSettings.h">
+      <Filter>Plugins\VlcMedia-master\Source\VlcMediaFactory\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\dediServer">
+      <UniqueIdentifier>{151EE09C-C089-4CC7-B5B3-2EEF8D6FC23E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\dediServer\BaseGameInstance.cpp">
+      <Filter>Source\dediServer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\dediServer\BaseGameInstance.h">
+      <Filter>Source\dediServer</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\dediServer\dediServer.Build.cs">
+      <Filter>Source\dediServer</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\dediServer\dediServer.cpp">
+      <Filter>Source\dediServer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\dediServer\dediServer.h">
+      <Filter>Source\dediServer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\dediServer\dediServerCharacter.cpp">
+      <Filter>Source\dediServer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\dediServer\dediServerCharacter.h">
+      <Filter>Source\dediServer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\dediServer\dediServerGameMode.cpp">
+      <Filter>Source\dediServer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\dediServer\dediServerGameMode.h">
+      <Filter>Source\dediServer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\dediServer\MyGameMode.cpp">
+      <Filter>Source\dediServer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\dediServer\MyGameMode.h">
+      <Filter>Source\dediServer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\dediServer\MyPlayerController.cpp">
+      <Filter>Source\dediServer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\dediServer\MyPlayerController.h">
+      <Filter>Source\dediServer</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2018.Target.cs" />
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2018.Build.cs" />
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2019.Build.cs" />
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2020.Build.cs" />
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2021.Build.cs" />
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2022.Build.cs" />
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\ReadMe.txt" />
+    <Filter Include="DatasmithRevit2018">
+      <UniqueIdentifier>{6ACDA436-605E-4C87-8420-CC18FE0FDB91}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2018\DatasmithRevit2018.addin">
+      <Filter>DatasmithRevit2018</Filter>
+    </None>
+    <Filter Include="DatasmithRevit2018\Properties">
+      <UniqueIdentifier>{5A55DA6A-74F4-4D6C-998E-FE889FFA5723}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2018\Properties\AssemblyInfo.cs">
+      <Filter>DatasmithRevit2018\Properties</Filter>
+    </None>
+    <Filter Include="DatasmithRevit2019">
+      <UniqueIdentifier>{63A748C8-266D-4A30-AADF-36DA7476CEFF}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2019\DatasmithRevit2019.addin">
+      <Filter>DatasmithRevit2019</Filter>
+    </None>
+    <Filter Include="DatasmithRevit2019\Properties">
+      <UniqueIdentifier>{CE21F5E4-2343-426C-A771-961DC2D7B362}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2019\Properties\AssemblyInfo.cs">
+      <Filter>DatasmithRevit2019\Properties</Filter>
+    </None>
+    <Filter Include="DatasmithRevit2020">
+      <UniqueIdentifier>{507F3802-F8CE-45D4-BD25-25413DC7A227}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2020\DatasmithRevit2020.addin">
+      <Filter>DatasmithRevit2020</Filter>
+    </None>
+    <Filter Include="DatasmithRevit2020\Properties">
+      <UniqueIdentifier>{9F1624F5-5637-4372-9475-5EDB3762FB7B}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2020\Properties\AssemblyInfo.cs">
+      <Filter>DatasmithRevit2020\Properties</Filter>
+    </None>
+    <Filter Include="DatasmithRevit2021">
+      <UniqueIdentifier>{AB5A7234-120B-4557-9716-A8DC0BDC7A8F}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2021\DatasmithRevit2021.addin">
+      <Filter>DatasmithRevit2021</Filter>
+    </None>
+    <Filter Include="DatasmithRevit2021\Properties">
+      <UniqueIdentifier>{A344548C-6683-42ED-8B53-0A2C261FF982}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2021\Properties\AssemblyInfo.cs">
+      <Filter>DatasmithRevit2021\Properties</Filter>
+    </None>
+    <Filter Include="DatasmithRevit2022">
+      <UniqueIdentifier>{9BDBB65A-5803-48E5-B230-3C44C3CEEE38}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2022\DatasmithRevit2022.addin">
+      <Filter>DatasmithRevit2022</Filter>
+    </None>
+    <Filter Include="DatasmithRevit2022\Properties">
+      <UniqueIdentifier>{0213C8C2-E77D-4698-BD3F-145F4C3EDB30}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\DatasmithRevit2022\Properties\AssemblyInfo.cs">
+      <Filter>DatasmithRevit2022\Properties</Filter>
+    </None>
+    <Filter Include="Installer">
+      <UniqueIdentifier>{2C1F330D-3643-4C0A-9E9C-220139275859}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\CreateMultilanguageInstaller.bat">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\CreateMultilanguageInstaller.py">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\CustomActions.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\CustomExitDialog.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\CustomInstallDirDlg.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\CustomLicenseAgreementDlg.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\CustomWelcomeDialog.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\CustomWixUI_InstallDir.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\GenericUiBrandDialog.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Installer.wixproj">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\RevitExporter.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <Filter Include="Installer\Localization">
+      <UniqueIdentifier>{20B8E6F2-8661-4468-8DA9-3FCAE1D7F302}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Localization\de-de.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Localization\en-us.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Localization\es-es.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Localization\fr-fr.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Localization\ja-jp.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Localization\ko-kr.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Localization\pt-pt.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Localization\UtilExtension_es-es.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Localization\UtilExtension_fr-fr.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Localization\UtilExtension_ja-jp.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Localization\UtilExtension_ko-kr.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Localization\UtilExtension_pt-pt.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Localization\UtilExtension_zh_cn.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Localization\zh-cn.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <Filter Include="Installer\Resources">
+      <UniqueIdentifier>{C11632E5-BA91-4C81-BEC0-5B3B3AD46193}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Resources\Banner.bmp">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Resources\default_small_banner.bmp">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Resources\Dialog.bmp">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Resources\Exporter Plugin End User License Agreement.docx">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Resources\Exporter Plugin End User License Agreement.rtf">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Resources\Microsoft_VC140_CRT_x64.msm">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Resources\Microsoft_VC140_OpenMP_x64.msm">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Resources\UnrealEngine.ico">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <Filter Include="Installer\Resources\Images">
+      <UniqueIdentifier>{25D6A9CF-6E35-4169-BD43-1F48F7A2E196}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Resources\Images\Epic_Games_logo.bmp">
+      <Filter>Installer\Resources\Images</Filter>
+    </None>
+    <Filter Include="Installer\Resources\Images\Background">
+      <UniqueIdentifier>{431635B5-8024-42C2-82F2-86C1D963B6D2}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Resources\Images\Background\28190.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Resources\Images\Background\28402.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Resources\Images\Background\28674.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Resources\Images\Background\30668.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Resources\Images\Background\30725.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <Filter Include="Installer\Resources\Images\General">
+      <UniqueIdentifier>{C46B55B9-1A49-4309-8815-85C3B138659B}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Resources\Images\General\banner.bmp">
+      <Filter>Installer\Resources\Images\General</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Installer\Resources\Images\General\unreal-logo.jpg">
+      <Filter>Installer\Resources\Images\General</Filter>
+    </None>
+    <Filter Include="Private">
+      <UniqueIdentifier>{FCA7B269-8D4C-4991-8330-487F739A5477}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Private\DatasmithDynamoNode.cs">
+      <Filter>Private</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Private\DatasmithRevitApplication.cs">
+      <Filter>Private</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Private\DatasmithRevitCommand.cs">
+      <Filter>Private</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Private\DatasmithRevitDirectLink.cs">
+      <Filter>Private</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Private\DatasmithRevitDocumentData.cs">
+      <Filter>Private</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Private\DatasmithRevitExportContext.cs">
+      <Filter>Private</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Private\DatasmithRevitExportMessages.cs">
+      <Filter>Private</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Private\DatasmithRevitExportOptions.cs">
+      <Filter>Private</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Private\DatasmithRevitLight.cs">
+      <Filter>Private</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Private\DatasmithRevitMaterial.cs">
+      <Filter>Private</Filter>
+    </None>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{FF0CF5B2-17D6-47BC-B613-B67F6FA2AC57}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Resources\Strings.de.resx">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Resources\Strings.Designer.cs">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Resources\Strings.es.resx">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Resources\Strings.fr.resx">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Resources\Strings.ja.resx">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Resources\Strings.ko.resx">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Resources\Strings.pt.resx">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Resources\Strings.resx">
+      <Filter>Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Resources\Strings.zh.resx">
+      <Filter>Resources</Filter>
+    </None>
+    <Filter Include="Resources\Windows">
+      <UniqueIdentifier>{64C440CE-17F4-480C-B239-C73485CDB326}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Resources\Windows\DatasmithBatchExporter.dyn">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Resources\Windows\DatasmithIcon16.png">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Resources\Windows\DatasmithIcon32.png">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Resources\Windows\DatasmithLogIcon16.png">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Resources\Windows\DatasmithLogIcon32.png">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Resources\Windows\DatasmithManageConnectionsIcon16.png">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Resources\Windows\DatasmithManageConnectionsIcon32.png">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Resources\Windows\DatasmithSyncIcon16.png">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithRevitExporter\Resources\Windows\DatasmithSyncIcon32.png">
+      <Filter>Resources\Windows</Filter>
+    </None>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\DatasmithSketchUpRuby2019.Target.cs" />
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\DatasmithSketchUpRuby2019.Build.cs" />
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\DatasmithSketchUpRuby2020.Build.cs" />
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\DatasmithSketchUpRuby2021.Build.cs" />
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\DatasmithSketchUpRubyExporter.def" />
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\readme.md" />
+    <Filter Include="Build">
+      <UniqueIdentifier>{F49EA7D6-3840-4F6F-870C-660EBD1D2C25}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Build\build_mac.py">
+      <Filter>Build</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Build\build_mac.sh">
+      <Filter>Build</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Build\create_version_file.py">
+      <Filter>Build</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Build\install_manual.sh">
+      <Filter>Build</Filter>
+    </None>
+    <Filter Include="Installer">
+      <UniqueIdentifier>{A0831318-9191-4C96-B77F-2D547DB864C4}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\CreateMultilanguageInstaller.bat">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\CreateMultilanguageInstaller.py">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\CustomActions.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\CustomExitDialog.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\CustomInstallDirDlg.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\CustomLicenseAgreementDlg.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\CustomWelcomeDialog.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\CustomWixUI_InstallDir.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\GenericUiBrandDialog.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Installer.wixproj">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\SketchUpExporter.wxs">
+      <Filter>Installer</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\UpgradeLog.htm">
+      <Filter>Installer</Filter>
+    </None>
+    <Filter Include="Installer\Localization">
+      <UniqueIdentifier>{DC097249-AAB3-4E9D-9CD3-D3EA393981E6}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Localization\de-de.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Localization\en-us.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Localization\es-es.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Localization\fr-fr.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Localization\ja-jp.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Localization\ko-kr.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Localization\pt-pt.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Localization\UtilExtension_es-es.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Localization\UtilExtension_fr-fr.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Localization\UtilExtension_ja-jp.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Localization\UtilExtension_ko-kr.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Localization\UtilExtension_pt-pt.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Localization\UtilExtension_zh_cn.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Localization\zh-cn.wxl">
+      <Filter>Installer\Localization</Filter>
+    </None>
+    <Filter Include="Installer\Mac">
+      <UniqueIdentifier>{AF28BC02-4A68-4FF0-A29E-947D7E4AC729}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Mac\CheckSketchUp.sh">
+      <Filter>Installer\Mac</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Mac\CollectSketchUp.sh">
+      <Filter>Installer\Mac</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Mac\DatasmithSketchUpExporter.pkgproj">
+      <Filter>Installer\Mac</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Mac\InstallSUPlugins.sh">
+      <Filter>Installer\Mac</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Mac\PostInstall2019">
+      <Filter>Installer\Mac</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Mac\PostInstall2020">
+      <Filter>Installer\Mac</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Mac\PostInstall2021">
+      <Filter>Installer\Mac</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Mac\SignAndBuild.sh">
+      <Filter>Installer\Mac</Filter>
+    </None>
+    <Filter Include="Installer\Resources">
+      <UniqueIdentifier>{C8A5CA77-4703-4570-813D-8BAFC7052726}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Resources\Banner.bmp">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Resources\default_small_banner.bmp">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Resources\Dialog.bmp">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Resources\Epic_Games_logo.png">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Resources\Exporter Plugin End User License Agreement.docx">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Resources\Exporter Plugin End User License Agreement.rtf">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Resources\MacOS_Background.png">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Resources\Microsoft_VC140_CRT_x64.msm">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Resources\Microsoft_VC140_OpenMP_x64.msm">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Resources\UnrealEngine.ico">
+      <Filter>Installer\Resources</Filter>
+    </None>
+    <Filter Include="Installer\Resources\Images">
+      <UniqueIdentifier>{548982F4-3E2D-4DAF-8FC3-D0B87F06970F}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Resources\Images\Epic_Games_logo.bmp">
+      <Filter>Installer\Resources\Images</Filter>
+    </None>
+    <Filter Include="Installer\Resources\Images\Background">
+      <UniqueIdentifier>{578766B0-6E95-4AC0-A894-8A2908CAB1A6}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Resources\Images\Background\28190.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Resources\Images\Background\28402.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Resources\Images\Background\28674.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Resources\Images\Background\30668.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Resources\Images\Background\30725.bmp">
+      <Filter>Installer\Resources\Images\Background</Filter>
+    </None>
+    <Filter Include="Installer\Resources\Images\General">
+      <UniqueIdentifier>{BAD20EED-DF36-46E4-A6EE-B64EF6A14D24}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Resources\Images\General\banner.bmp">
+      <Filter>Installer\Resources\Images\General</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Installer\Resources\Images\General\unreal-logo.jpg">
+      <Filter>Installer\Resources\Images\General</Filter>
+    </None>
+    <Filter Include="Plugin">
+      <UniqueIdentifier>{B57FBFF6-B911-4DCD-96E2-6AF69390EB3D}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Plugin\UnrealDatasmithSketchUp.rb">
+      <Filter>Plugin</Filter>
+    </None>
+    <Filter Include="Plugin\UnrealDatasmithSketchUp">
+      <UniqueIdentifier>{8E9E22A0-6869-4DD8-9DD5-9CBCBDA8534B}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Plugin\UnrealDatasmithSketchUp\connections_dialog.rb">
+      <Filter>Plugin\UnrealDatasmithSketchUp</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Plugin\UnrealDatasmithSketchUp\logging.rb">
+      <Filter>Plugin\UnrealDatasmithSketchUp</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Plugin\UnrealDatasmithSketchUp\messages_dialog.rb">
+      <Filter>Plugin\UnrealDatasmithSketchUp</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Plugin\UnrealDatasmithSketchUp\plugin_main.rb">
+      <Filter>Plugin\UnrealDatasmithSketchUp</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Plugin\UnrealDatasmithSketchUp\utils.rb">
+      <Filter>Plugin\UnrealDatasmithSketchUp</Filter>
+    </None>
+    <Filter Include="Private">
+      <UniqueIdentifier>{72B99CC8-78B7-4045-B922-F39617C03DE8}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpCamera.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpCamera.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpCommon.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpComponent.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpComponent.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpExportContext.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpExportContext.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpExporter.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpMaterial.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpMaterial.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpMesh.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpMesh.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpMetadata.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpMetadata.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpSDKBegins.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpSDKCeases.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpString.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpString.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpSummary.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpSummary.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpTexture.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpTexture.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <ClCompile Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpUtils.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClInclude Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Private\DatasmithSketchUpUtils.h">
+      <Filter>Private</Filter>
+    </ClInclude>
+    <Filter Include="Resources">
+      <UniqueIdentifier>{BC33D8FE-D0B4-4AD2-BB41-6B312D709736}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Resources\Windows">
+      <UniqueIdentifier>{FB5E6DD6-ED3C-4D2F-9296-2FFB3394DD89}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Resources\Windows\DatasmithAutoSyncIcon16.png">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Resources\Windows\DatasmithAutoSyncIcon32.png">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Resources\Windows\DatasmithAutoSyncIconOn16.png">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Resources\Windows\DatasmithAutoSyncIconOn32.png">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Resources\Windows\DatasmithIcon16.png">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Resources\Windows\DatasmithIcon32.png">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Resources\Windows\DatasmithLogIcon16.png">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Resources\Windows\DatasmithLogIcon32.png">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Resources\Windows\DatasmithManageConnectionsIcon16.png">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Resources\Windows\DatasmithManageConnectionsIcon32.png">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Resources\Windows\DatasmithSyncIcon16.png">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Resources\Windows\DatasmithSyncIcon32.png">
+      <Filter>Resources\Windows</Filter>
+    </None>
+    <Filter Include="Resources\Windows\de">
+      <UniqueIdentifier>{0CA68DB0-E470-434B-B0A4-6C2720B37D8F}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Resources\Windows\de\Plugin.strings">
+      <Filter>Resources\Windows\de</Filter>
+    </None>
+    <Filter Include="Resources\Windows\en-US">
+      <UniqueIdentifier>{BA4F5246-BD02-4D26-BE2E-C39C008229A1}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Resources\Windows\en-US\Plugin.strings">
+      <Filter>Resources\Windows\en-US</Filter>
+    </None>
+    <Filter Include="Resources\Windows\es">
+      <UniqueIdentifier>{7AC3096A-6049-4695-888E-E18EA9D2F5E2}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Resources\Windows\es\Plugin.strings">
+      <Filter>Resources\Windows\es</Filter>
+    </None>
+    <Filter Include="Resources\Windows\fr">
+      <UniqueIdentifier>{0D920027-DD91-4345-97B5-821806754703}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Resources\Windows\fr\Plugin.strings">
+      <Filter>Resources\Windows\fr</Filter>
+    </None>
+    <Filter Include="Resources\Windows\ja">
+      <UniqueIdentifier>{4ED09487-CD45-4727-849B-9A7B95BE86BA}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Resources\Windows\ja\Plugin.strings">
+      <Filter>Resources\Windows\ja</Filter>
+    </None>
+    <Filter Include="Resources\Windows\ko">
+      <UniqueIdentifier>{56E474A3-B9FB-4D2F-A180-405EEF8AE610}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Resources\Windows\ko\Plugin.strings">
+      <Filter>Resources\Windows\ko</Filter>
+    </None>
+    <Filter Include="Resources\Windows\pt-BR">
+      <UniqueIdentifier>{A8DF6FD1-7869-4748-9DBD-EB8198EB4CC4}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Resources\Windows\pt-BR\Plugin.strings">
+      <Filter>Resources\Windows\pt-BR</Filter>
+    </None>
+    <Filter Include="Resources\Windows\zh-CN">
+      <UniqueIdentifier>{422000A9-E1A2-4449-9B98-6C3722520BCF}</UniqueIdentifier>
+    </Filter>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\Enterprise\Datasmith\DatasmithSketchUpRubyExporter\Resources\Windows\zh-CN\Plugin.strings">
+      <Filter>Resources\Windows\zh-CN</Filter>
+    </None>
+  </ItemGroup>
+</Project>

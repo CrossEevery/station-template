@@ -1,0 +1,1746 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "0BF262B059DF541FFD745BACBAFB7E7249A9051E",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "77CE4683B497D1FCF846C058B0E89CEC27E1912A",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "911CE4B2F19C37D28BF48C5E9F2496185F5538F4",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "CCCEED7BF009E3A1D89B3B77B5DD9D4D10CF3D62",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0F870002A7BD99BB992F9AE9FFC2310206906DA8",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "818ED386597E3723A8AB154A87873DB9802D9859",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "328B7B5E58D86CAAA08D98DDCACA2EE9A3E68797",
+			"Assets": [
+				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8A8627C3850BFC999B1EB9BC0905065C005702B7",
+			"Assets": [
+				"/OculusVR/Materials/touchController_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "C69911B61677F5F21245D626E9DBF8F73485EA81",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_OpaqueColoredMaterial",
+				"/Engine/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color",
+				"/Game/SubcultureGirl/Materials/Env/M_Dome_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "A9E736E14CD1C73F56BDAABC00D83B688B49ABD5",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_ChromaKey"
+			]
+		},
+		{
+			"ShaderMapHash": "15ECA4622B54D6DCE2D0D16A6E337B0840BD0DBC",
+			"Assets": [
+				"/OpenXR/Devices/GoogleDaydream/MI_GoogleDaydream",
+				"/OpenXR/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality",
+				"/OpenXR/Devices/OculusTouch/MI_OculusTouch",
+				"/OpenXR/Devices/ValveIndex/Left/MI_left_ValveIndex",
+				"/OpenXR/Devices/OculusTouch_v2/MI_OculusTouch_v2",
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3"
+			]
+		},
+		{
+			"ShaderMapHash": "F21CB3409D094C57EC24E6252528D66C26996F5E",
+			"Assets": [
+				"/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex"
+			]
+		},
+		{
+			"ShaderMapHash": "107AB8DBDC824C74816FD718013F231C4C72E69A",
+			"Assets": [
+				"/OpenXR/Devices/M_XRController"
+			]
+		},
+		{
+			"ShaderMapHash": "561F29363532D412410E8DF0E0DAACAADD7DC7B8",
+			"Assets": [
+				"/PanoramicCapture/Materials/Roughness"
+			]
+		},
+		{
+			"ShaderMapHash": "C4DEEDBFC77DD12BF67203A6AE1426CE269F7670",
+			"Assets": [
+				"/PanoramicCapture/Materials/Metallic"
+			]
+		},
+		{
+			"ShaderMapHash": "67C20AE53CA12EE5943036625B895BBA8B4E73DC",
+			"Assets": [
+				"/PanoramicCapture/Materials/BaseColor"
+			]
+		},
+		{
+			"ShaderMapHash": "FFC95C469DCF493C0349D179C02DEBC108CDDC37",
+			"Assets": [
+				"/PanoramicCapture/Materials/AmbientOcclusion"
+			]
+		},
+		{
+			"ShaderMapHash": "CC145DBC2D55137EB98CE0E5BDE3D14C1E3C3F94",
+			"Assets": [
+				"/PanoramicCapture/Materials/WorldNormal"
+			]
+		},
+		{
+			"ShaderMapHash": "E0D3EBF81C95CF1B1FA38A4B8F78CACF011E5E31",
+			"Assets": [
+				"/MovieRenderPipeline/Materials/MovieRenderQueue_MotionVectors"
+			]
+		},
+		{
+			"ShaderMapHash": "2AFB47EE600ECAECAE0BDD8B021C71D2AD0B587E",
+			"Assets": [
+				"/MovieRenderPipeline/Materials/MovieRenderQueue_WorldDepth"
+			]
+		},
+		{
+			"ShaderMapHash": "79286F7E5C916D68773C4399ABCB837D89FCDFED",
+			"Assets": [
+				"/MovieRenderPipeline/Materials/MoviePipeline_StencilCutout"
+			]
+		},
+		{
+			"ShaderMapHash": "DFB8307D8C8673B90DA770CF801BCD7C4F3B5B42",
+			"Assets": [
+				"/MovieRenderPipeline/Blueprints/M_MoviePipelineRenderPreview"
+			]
+		},
+		{
+			"ShaderMapHash": "55691DB30875E073E96ED8309D594252A7C2E2A9",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "843C77E1FEA0CC35F883BFC08CA284603BDC54C3",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "633BD3F84C9AB791685122839159834E16518035",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "1498363317B6D91513E2D769D5784B8D897F91B6",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/WireframeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "11E670356DC9B9A41D1D18FEB947BE9D23A4987F",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/VertexColorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4F3E03132E3425801B4B6BF9308AF60A990ED43F",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "57588E3433044C855C8D408CCDA489779A0F388F",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "2BCDF7DE783FCE1CA0F24B90A73F7223859C1694",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "558742CB22CECD22434A9A8519D4E3E346FED011",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6320A56CA4D65AEE979DD244250AA50126448D6D",
+			"Assets": [
+				"/OculusVR/Materials/PokeAHoleMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "24BC7D9A1F5F44E82DD4B6254C7CC0D9837EAB42",
+			"Assets": [
+				"/HairStrands/Materials/HairMeshesDefaultMaterial",
+				"/HairStrands/Materials/HairDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "29262EA861AF91F1A1839D27427C3BF8652BA106",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E1B4D1A7A95EF7876613BAACABB50A67AD1D4C2B",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "16FF80EDBC812C9B5C2D696C1B26109E1D74F0EB",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent",
+				"/Game/Common/Matrials/Emission2-2",
+				"/Game/Common/Matrials/HD_wawaji_Sphere3"
+			]
+		},
+		{
+			"ShaderMapHash": "E1B96C2E039F6E2346CF495741BC49C8ED8D61E9",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "B1EB84DD0905E32D793E03FCC39A392796CCD2A8",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "ABC88F0A6212FE666A6098B6FC39B9954CC55BE5",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3241D13296681528F94D2AD74EFF459055DFEC81",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "6A7DAD0E9EB4BE1586B12E04CDD47B7DABF65DFF",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "202EAA7089022899C5EBD171A6A219EEEF255369",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "0B6E71506BB8A2C651E88FBCB6C543C3FBD635FE",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "8B8285D4CB306A0B345AD9E9AF4F893960F67F9A",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+				"/Engine/EngineMaterials/Widget3DPassThrough"
+			]
+		},
+		{
+			"ShaderMapHash": "1443A53887E10A2D82625B85A21D36E8B685ADB3",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "3834A67B535CBE5A52D3D04F108896E2A55F33BB",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/Environment/Map/AEON_001/Mesh/Wall_stone_smooth_floor",
+				"/Game/Environment/Map/AEON_001/Mesh/Wall_stone_smooth",
+				"/Game/Environment/Map/AEON_001/Mesh/Wall_stone_rough",
+				"/Game/Environment/Map/AEON_001/Mesh/Wall_stone_rough_veersion2"
+			]
+		},
+		{
+			"ShaderMapHash": "1A4C707AE1B76877CAD003D65A11F2503CC59C1E",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "18C42CC2516FB0B084875EBAC9AD5DF1949D9412",
+			"Assets": [
+				"/Engine/EngineMaterials/BaseFlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E2F960C3B1AF04CB672E1B777FA2B5AA1C6590FB",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "8F1CAABB3C2CA8709D78769E6AF7F3B3BECA35BF",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C66DA72B4D300193A5149554529D5BD5D79EB854",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4EE2D51BDDF2148CB5C1C18B0CD3BDA504BE3549",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "81B9D781FFA95E479F1C8ED3244301253609B9C6",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D4D501F3054B75982BCED69395662EF021FFD114",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "5E9B2060D8537663CAD87FD2D3A1AF5560B6A320",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C6BF47CB64F752FCE9305259E653EACD3344D89A",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "D3E10B53B3CB7909C26F37653C968C68F61B4A4D",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "9BB91907E3D3180B6ED139310B991A677D71AEB5",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SneakersB/M_SneakersB_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "2C3FF6994DA76C7227090D3F329C02B56FD51082",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SneakersA/M_CGirl_SneakersA_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "26DF2DA5B654A27FD136250AF5644FFDAA9858B5",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/ShoesA/M_CGirl_SnoesA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "9CA187846AAA018E9A19C48892421AE0AC2EC2EE",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/Sandals/M_CGirl_Sandals_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "E7D761548EF0FF9C524327AA1FE59A1256B97847",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/PantsLeatherA/M_PantsLeatherA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "844D18F2DAEAE424F191CC8D3866CF90B8D42017",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/PantsFlareA/M_PantsFlareA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "DA025A0ACBC5362C802E027A05BA1A343EDD8AC3",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/PantsDenimC/M_PantsDenimC_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "CB8081CFB371AA223391AAFF468FDEB2BBABEBFE",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/PantsDenimB/M_PantsDenimB_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "8264B789CBBB12691982D5BE2C001FEE871089E2",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/Pants_Denim/M_CGirl_PantsDenim_Master_01",
+				"/Game/SubcultureGirl/Materials/Clothes/Pants_Denim/M_CGirl_PantsDenimB_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "FB4C4A9FC1AC48B6A9D2A2FC6747DB15AC2B0728",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/CargoPantsA/M_CargoPantsA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "6222FADE7921196DB7B4BF2E9FF920E41F64969C",
+			"Assets": [
+				"/Game/SubcultureGirl/Mesh/Gilr/Pants/Pants_01/M_Pants_01",
+				"/Game/SubcultureGirl/Mesh/Boy/Pants/Pants_01/M_Pants_01",
+				"/Game/SubcultureGirl/Materials/Clothes/CargoPantsA/MaterialInstance/MI_CargoPantsA_03",
+				"/Game/SubcultureGirl/Materials/Clothes/CargoPantsA/MaterialInstance/MI_CargoPantsA_05",
+				"/Game/SubcultureGirl/Materials/Clothes/CargoPantsA/MaterialInstance/MI_CargoPantsA_06",
+				"/Game/SubcultureGirl/Materials/Clothes/CargoPantsA/MaterialInstance/MI_CargoPantsA_07"
+			]
+		},
+		{
+			"ShaderMapHash": "8AF5FDE0B9711B5293E2BDD5BABC27500892A29D",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/HairI/M_HairI_01",
+				"/Game/SubcultureGirl/Materials/HairC/M_HairC_01"
+			]
+		},
+		{
+			"ShaderMapHash": "2AFE48A526CA173CE5F3BD2CB3535191DA042D19",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/HairH/M_HairH_01",
+				"/Game/SubcultureGirl/Materials/HairG/M_HairG_01"
+			]
+		},
+		{
+			"ShaderMapHash": "732925542D5CD26B268EEF1CC8200BC6186BBACB",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/HairF/M_HairF_01"
+			]
+		},
+		{
+			"ShaderMapHash": "A625078D9D04F241D4E73725B1B1AAD3D2DA9169",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/HairB/M_HairB_01",
+				"/Game/SubcultureGirl/Materials/HairF/M_HairF_02",
+				"/Game/SubcultureGirl/Materials/Props/Headgears/KnitCapA/M_KnitCapHairA_Master_01",
+				"/Game/SubcultureGirl/Materials/Props/Headgears/Baseball_Cap_Hair/M_CGirl_HairHatA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "7C527E725EB21D7C8011FC3247B5CA72E563F941",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/HairA/M_HairA_01"
+			]
+		},
+		{
+			"ShaderMapHash": "E3703199943FEC86FCE859B47CE27BE9EF85372B",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/M_TShirtB_Master_01",
+				"/Game/SubcultureGirl/Materials/Clothes/NAN_TShirtB/NAN_M_TShirtB_Master_01",
+				"/Game/SubcultureGirl/Materials/Clothes_nan/Clothes_02/NAN_M_Clothes_Master_02"
+			]
+		},
+		{
+			"ShaderMapHash": "38A18D995012942013ED51465CB7EFB725D0850F",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/M_CGirl_TShirtA_Master_01",
+				"/Game/SubcultureGirl/Mesh/Gilr/Blouse/Blouse_03/M_Blouse_03",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtA_Common_07",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtA_Common_10",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtA_Common_08",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtA_Common_06",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtA_Common_04",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtA_Common_02"
+			]
+		},
+		{
+			"ShaderMapHash": "1B52F6B0AFEF95459F19255456E7EB6A8159EC9D",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/Jacket_Denim/M_CGirl_JacketDenim_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "B547F219C5DA3AC33E6C25324D86CEEC966916DE",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/BikerJacketA/M_BikerJacketA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "976AC5E7CB35D75090F964A71A01FCFEAD83338C",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes_nan/Trouser_02/NAN_M_Trouser_Master_PNT_03",
+				"/Game/SubcultureGirl/Materials/Clothes_nan/Trouser_02/NAN_M_Trouser_Master_PNT_02",
+				"/Game/SubcultureGirl/Materials/Clothes_nan/Clothes_02/NAN_M_Clothes_Master_PNT_02"
+			]
+		},
+		{
+			"ShaderMapHash": "FD9262F6FA493CEB8655B92F552486649DC41EE1",
+			"Assets": [
+				"/Game/SubcultureGirl/Mesh/Boy/Pants/Pants_11/M_Pants_11"
+			]
+		},
+		{
+			"ShaderMapHash": "F5F4E498C286DB78E2DF45B5C8B62458D215C89B",
+			"Assets": [
+				"/Game/SubcultureGirl/Mesh/Boy/Pants/Pants_10/M_Pants_10"
+			]
+		},
+		{
+			"ShaderMapHash": "82D6DF603C1F1431304D487606C2331E3CEB7C22",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes_nan/Trouser_03/NAN_M_Trouser_Master_PNT_03",
+				"/Game/SubcultureGirl/Mesh/Boy/Pants/Pants_08/M_Pants_08",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/M_TShirtB_Master_PNT_01",
+				"/Game/SubcultureGirl/Materials/Clothes/NAN_TShirtB/NAN_M_TShirtB_Master_PNT_01"
+			]
+		},
+		{
+			"ShaderMapHash": "30C28C37A19A8E2947989788105CBFCC6D92F1E5",
+			"Assets": [
+				"/Game/SubcultureGirl/Mesh/Boy/Pants/Pants_07/M_Pants_07",
+				"/Game/SubcultureGirl/Mesh/Boy/Pants/Pants_06/M_Pants_06",
+				"/Game/SubcultureGirl/Mesh/Boy/Pants/Pants_03/M_Pants_02",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_Master_PNT_05",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_Master_PNT_07",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_Master_PNT_06",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_Master_PNT_08",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_Master_PNT_09",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_Master_PNT_01",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_Master_PNT_02",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_Master_PNT_10",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_Master_PNT_04",
+				"/Game/SubcultureGirl/Materials/Clothes/NAN_TShirtB/MaterialInstance/NAN_MI_TShirtB_Master_PNT_10",
+				"/Game/SubcultureGirl/Materials/Clothes/NAN_TShirtB/MaterialInstance/NAN_MI_TShirtB_Master_PNT_03",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_Master_PNT_03",
+				"/Game/SubcultureGirl/Materials/Clothes/NAN_TShirtB/MaterialInstance/NAN_MI_TShirtB_Master_PNT_08",
+				"/Game/SubcultureGirl/Materials/Clothes/NAN_TShirtB/MaterialInstance/NAN_MI_TShirtB_Master_PNT_07",
+				"/Game/SubcultureGirl/Materials/Clothes/NAN_TShirtB/MaterialInstance/NAN_MI_TShirtB_Master_PNT_06",
+				"/Game/SubcultureGirl/Materials/Clothes/NAN_TShirtB/MaterialInstance/NAN_MI_TShirtB_Master_PNT_05",
+				"/Game/SubcultureGirl/Materials/Clothes/NAN_TShirtB/MaterialInstance/NAN_MI_TShirtB_Master_PNT_04",
+				"/Game/SubcultureGirl/Materials/Clothes/NAN_TShirtB/MaterialInstance/NAN_MI_TShirtB_Master_PNT_02",
+				"/Game/SubcultureGirl/Materials/Clothes/NAN_TShirtB/MaterialInstance/NAN_MI_TShirtB_Master_PNT_01",
+				"/Game/SubcultureGirl/Materials/Clothes/NAN_TShirtB/MaterialInstance/NAN_MI_TShirtB_Master_PNT_09"
+			]
+		},
+		{
+			"ShaderMapHash": "63A57E58DFCD8A3FF1DD314DF83CEC1259756A95",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes_nan/Trouser_04/NAN_M_Trouser_Master_PNT_04"
+			]
+		},
+		{
+			"ShaderMapHash": "063FD6DAB69B4A4B53C5CDFF30C7F819E4F4E249",
+			"Assets": [
+				"/Game/SubcultureGirl/Mesh/Boy/Pants/Pants_05/M_Pants_05",
+				"/Game/SubcultureGirl/Mesh/Boy/Pants/Pants_04/M_Pants_04"
+			]
+		},
+		{
+			"ShaderMapHash": "77B8EA09CE718EE34084573C65FE440CFEDB8C63",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/NAN_Hair_003/NAN_Hair_003",
+				"/Game/SubcultureGirl/Materials/NAN_Hair_002/NAN_Hair_002",
+				"/Game/SubcultureGirl/Materials/NAN_Hair_001/NAN_Hair_001"
+			]
+		},
+		{
+			"ShaderMapHash": "FFAC7EACD3B508A15E51FCE9741491EE0ED9E43C",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes_nan/Clothes_04/NAN_M_Clothes_Master_PNT_04",
+				"/Game/SubcultureGirl/Materials/Clothes_nan/Clothes_03/NAN_M_Clothes_Master_PNT_02",
+				"/Game/SubcultureGirl/Materials/Clothes_nan/Clothes_03/NAN_M_Clothes_Master_PNT_03"
+			]
+		},
+		{
+			"ShaderMapHash": "780D1743D5AEE13986F73A44356FFF882490D505",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Skin_Body/Skin_BodyBase/M_SkinHead_wx_01",
+				"/Game/SubcultureGirl/Materials/Skin_Body/Skin_BodyBase/MaterialInstances/MI_Head_nv_wx",
+				"/Game/SubcultureGirl/Materials/Skin_Body/Skin_BodyBase/NAN_SkinHead_wx_01",
+				"/Game/SubcultureGirl/Materials/Skin_Body/Skin_BodyBase/MaterialInstances/MI_Head_nan_wx1",
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyRG/M_SkinHead_Master_RG_01",
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyRF/M_SkinHead_Master_RF_01",
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyRF/MaterialInstance/MI_SkinHead_RF_01",
+				"/Game/SubcultureGirl/Materials/Skin_Body/Skin_BodyBase/M_SkinHead_Master_01",
+				"/Game/SubcultureGirl/Materials/Skin_Body/Skin_BodyBase/MaterialInstances/MI_SkinHead_Red_A",
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyRF/MaterialInstance/MI_SkinHead_RF_02",
+				"/Game/SubcultureGirl/Materials/Skin_Body/Skin_BodyBase/MaterialInstances/MI_SkinHead_Brunette_B",
+				"/Game/SubcultureGirl/Materials/Skin_Body/Skin_BodyBase/MaterialInstances/MI_SkinHead_Brunette_B1",
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyRG/MaterialInstance/MI_SkinHead_RG_04",
+				"/Game/SubcultureGirl/Materials/Skin_Body/Skin_BodyBase/MaterialInstances/MI_SkinHead_Red_D",
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyRG/MaterialInstance/MI_SkinHead_RG_02"
+			]
+		},
+		{
+			"ShaderMapHash": "C518AA5519DE3EB6A81189E3C0D47286FBF06357",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Skin_Body/Skin_BodyBase/M_EyeBALL_Master1",
+				"/Game/SubcultureGirl/Materials/Skin_Body/Skin_BodyBase/NAN_EyeBALL_Master1"
+			]
+		},
+		{
+			"ShaderMapHash": "BC9458F101515A9BC0036078150860785935E6C4",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Skin_Body/Skin_BodyBase/M_SkinBody_wx_01",
+				"/Game/SubcultureGirl/Materials/Skin_Body/Skin_BodyBase/NAN_SkinBody_wx_01",
+				"/Game/SubcultureGirl/Materials/Skin_Body/Skin_BodyBase/M_SkinBody_Master_01",
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyLF/M_SkinBody_Master_LF_01"
+			]
+		},
+		{
+			"ShaderMapHash": "57D0F68BA676CC4E1D70CB781B9757513695C1ED",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/HeavyBootsB/M_HeavyBootsB_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "1FFB4195D01295CFD202D623D07B29E69325E367",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/GloveFingerlessA/M_GloveFingerlessA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "469A31AAAC338DDDFA4796B0C5FB1B8EEF55632D",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinLongB/M_SocksThinLongB_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "115FDDFA851A0291CDBE24E26A564A5F8CEDD9A1",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinLongB/MaterialInstance/M_SocksThinLongB_05",
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinLongB/MaterialInstance/M_SocksThinLongB_02"
+			]
+		},
+		{
+			"ShaderMapHash": "A7F4B6BDE6853298DE9B3FA43BD9611A7D774D88",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniB/M_Skirt_MiniB_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "BD9E35F677B74F0D93739BFED3EC6F91BB817BAF",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniB/MaterialInstance/MI_Skirt_MiniB_03",
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniB/MaterialInstance/MI_Skirt_MiniB_05",
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniB/MaterialInstance/MI_Skirt_MiniB_02",
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniB/MaterialInstance/MI_Skirt_MiniB_04"
+			]
+		},
+		{
+			"ShaderMapHash": "526E03C7708A0E808ECA0779C2BB2336E4AD8D13",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/Accessories/Collar_BracerA/M_Collar_BracerA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "58D6718BE3BD7EEF7DC4CF8DC2D06F12317102D0",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinLongB/MaterialInstance/M_SocksThinLongB_01",
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinLongB/MaterialInstance/M_SocksThinLongB_04"
+			]
+		},
+		{
+			"ShaderMapHash": "84E865C86259E87812C09B70612A5685963EEA04",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/NAN_Hair_003/NAN_Hair_003_Inst1"
+			]
+		},
+		{
+			"ShaderMapHash": "BF1A08FAE69CC2A72D01E1B4B6EDCDE7575D5AF4",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/NAN_TShirtB/MaterialInstance/NAN_MI_TShirtB_09",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_09",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtB/MaterialInstance/MI_TShirtB_07",
+				"/Game/SubcultureGirl/Materials/Clothes/NAN_TShirtB/MaterialInstance/NAN_MI_TShirtB_07"
+			]
+		},
+		{
+			"ShaderMapHash": "4A6ADE0C07ECDAD39D25B15D3B22EFA7D74BEC90",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/HeavyBootsA/M_HeavyBootsA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "C9D1C25F7B02C5EBDBCA2FFCA59D7D21D49A46CF",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressA/M_HippieDressA_Master_01",
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressA/MaterialInstance/MI_HippieDressA_04",
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressA/MaterialInstance/MI_HippieDressA_02"
+			]
+		},
+		{
+			"ShaderMapHash": "2EC4A35AB0B842A62072D4E93239952A0FC43307",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressA/MaterialInstance/MI_HippieDressA_05",
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressA/MaterialInstance/MI_HippieDressA_06",
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressA/MaterialInstance/MI_HippieDressA_03",
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressA/MaterialInstance/MI_HippieDressA_01"
+			]
+		},
+		{
+			"ShaderMapHash": "2B30A1A1B25D24B3775E96462CE4865F36365819",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinLong/M_SocksLongThin_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "335B06C0BC9C1BD0F4139D601ECCF7CAE7B56C6B",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressB/M_HippieDressB_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "5BD32C6B876EF56538D476DEF1421CB6DDD31749",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressB/MaterialInstance/MI_HippieDressB_03",
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressB/MaterialInstance/MI_HippieDressB_01",
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressB/MaterialInstance/MI_HippieDressB_02",
+				"/Game/SubcultureGirl/Materials/Clothes/HippieDressB/MaterialInstance/MI_HippieDressB_04"
+			]
+		},
+		{
+			"ShaderMapHash": "6ED0502C83A71A9D345AAF7F2BF1463288F93CD2",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinLong/MaterialInstance/MI_SocksLongThin_08",
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinLong/MaterialInstance/MI_SocksLongThin_06",
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinLong/MaterialInstance/MI_SocksLongThin_09",
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinLong/MaterialInstance/MI_SocksLongThin_03",
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinLong/MaterialInstance/MI_SocksLongThin_02"
+			]
+		},
+		{
+			"ShaderMapHash": "7D39725EFB956AB276932FFFC3A6B3B99C213E34",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/Headgears/Baseball_Cap_Bald/M_Baseball_Cap_Bald_Master_01",
+				"/Game/SubcultureGirl/Materials/Props/Headgears/Baseball_Cap_Hair/M_Baseball_Cap_Hair_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "269BBAD3C1EFE644216F450DBC41476377182706",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniA/M_CGirl_SkirtMini_Master_01",
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniA/MaterialInstance/MI_CGirl_SkirtMini_Common2",
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniA/MaterialInstance/MI_CGirl_SkirtMini_Common1",
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniA/MaterialInstance/MI_CGirl_SkirtMini_Common"
+			]
+		},
+		{
+			"ShaderMapHash": "29D1165414B7C3DB1B6B279965310CCBAEEC9B63",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniA/MaterialInstance/MI_CGirl_SkirtMini_Tartan_04",
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniA/MaterialInstance/MI_CGirl_SkirtMini_Tartan_01",
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniA/MaterialInstance/MI_CGirl_SkirtMini_Tartan_06",
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniA/MaterialInstance/MI_CGirl_SkirtMini_Tartan_05",
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniA/MaterialInstance/MI_CGirl_SkirtMini_Tartan_03",
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniA/MaterialInstance/MI_CGirl_SkirtMini_Dots1",
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniA/MaterialInstance/MI_CGirl_SkirtMini_Tartan_02"
+			]
+		},
+		{
+			"ShaderMapHash": "CB4359B02D6060E45C22F0838ED654716078EA5A",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/Headgears/KnitCapA/M_KnitCapA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "76919AEEA809C3ECBECEEAC18C4E78BE2587236E",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtA_Dots_03",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtA_Common_09",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtHeart_01",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtA_Dots_02",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtKitty_01"
+			]
+		},
+		{
+			"ShaderMapHash": "ECD4BD26C1543E0FBED29DAF96DE0DCEAC684C19",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinShort/M_SocksShortThin_Master_01",
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinShort/MaterialInstance/MI_SocksShortThin_02"
+			]
+		},
+		{
+			"ShaderMapHash": "AA8C0CF5FE1A9B27A5D605904D24AA34A5183B73",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/Headgears/BandanaA/M_BandanaA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "9C2C5FFF7FE622ACB04C53E1CA586471A7FB2BF8",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/Headgears/BandanaA/MaterialInstance/MI_BandanaA_04",
+				"/Game/SubcultureGirl/Materials/Props/Headgears/BandanaA/MaterialInstance/MI_BandanaA_02",
+				"/Game/SubcultureGirl/Materials/Props/Headgears/BandanaA/MaterialInstance/MI_BandanaA_01"
+			]
+		},
+		{
+			"ShaderMapHash": "9D972ACD25D3C5D928BC2FF81CA1A65F8A406442",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinShort/MaterialInstance/MI_SocksShortThin_09",
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinShort/MaterialInstance/MI_SocksShortThin_07",
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinShort/MaterialInstance/MI_SocksShortThin_06"
+			]
+		},
+		{
+			"ShaderMapHash": "6AEC453DE66E2BCB9E2EAAB56D6093D20FB88CF3",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/PantsDenimC/MaterialInstance/MI_PantsDenimC_07"
+			]
+		},
+		{
+			"ShaderMapHash": "C764DF6268DF6D8AD3028F935752B8C23938FAA6",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SocksThinShort/MaterialInstance/MI_SocksShortThin_03"
+			]
+		},
+		{
+			"ShaderMapHash": "CF780D8A5296B0447B7BE50A07110BDA822F70A7",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/Headgears/GlassesRoundShapeA/M_SunglassesVisorA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "5440FB1470A322D933AB92CAA78F9DBC0BBD63CA",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/Headgears/GlassesRoundShapeA/M_GlassesRoundShapeA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "811E1DFB19AE83F40132CCED9C01AA811D90823B",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/CowboyBootsA/M_CowboyBootsA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "B4FF81BF29DBAFCD37CF1C159057FD94BE8B34D2",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/GothDressA/M_GothDressA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "61BF66B9B7504E59B4F4234E28072871F5446DAC",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A8DD7467B7365AAA4CDBC1EFB01307D14482966E",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "2D31CDA0D402FD076FF8BFCC5A3D6F011C7512A4",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyRF/M_EyeLashes_RF_Master",
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyRG/M_EyeLashes_RG_Master",
+				"/Game/SubcultureGirl/Materials/Skin_Body/Skin_BodyBase/M_EyeLashes_Master",
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyLF/M_EyeLashes_LF_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "9C85C4960D93218100F0395174747CA956EFAF21",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyLF/M_SkinHead_Master_LF_01",
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyLF/MaterialInstance/MI_SkinHead_LF_03",
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyLF/MaterialInstance/MI_SkinHead_LF_06",
+				"/Game/SubcultureGirl/Materials/Skin_Body/SkinBodyLF/M_SkinHead_Master_LF_Extra_01"
+			]
+		},
+		{
+			"ShaderMapHash": "7D6A8BD3249F6254772ECF47EEC35C2CE7629067",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/EyeBall/M_EyeBall_Master_01",
+				"/Game/SubcultureGirl/Materials/EyeBall/MaterialInstances/MI_EyeBall_11",
+				"/Game/SubcultureGirl/Materials/EyeBall/MaterialInstances/MI_EyeBall_03",
+				"/Game/SubcultureGirl/Materials/EyeBall/MaterialInstances/MI_EyeBall_05",
+				"/Game/SubcultureGirl/Materials/EyeBall/MaterialInstances/MI_EyeBall_10",
+				"/Game/SubcultureGirl/Materials/EyeBall/MaterialInstances/MI_EyeBall_09",
+				"/Game/SubcultureGirl/Materials/EyeBall/MaterialInstances/MI_EyeBall_08",
+				"/Game/SubcultureGirl/Materials/EyeBall/MaterialInstances/MI_EyeBall_04",
+				"/Game/SubcultureGirl/Materials/EyeBall/MaterialInstances/MI_EyeBall_12",
+				"/Game/SubcultureGirl/Materials/EyeBall/MaterialInstances/MI_EyeBall_07",
+				"/Game/SubcultureGirl/Materials/EyeBall/MaterialInstances/MI_EyeBall_06",
+				"/Game/SubcultureGirl/Materials/EyeBall/MaterialInstances/MI_EyeBall_02"
+			]
+		},
+		{
+			"ShaderMapHash": "A65FD883F08B63C09A4CAD26613A2B2A10592AC2",
+			"Assets": [
+				"/Game/SubcultureGirl/ThirdPersonTemplate/ThirdPerson/Meshes/RampMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "35CCCFC6BD1D4B7835942C1CC230BFF8AF887524",
+			"Assets": [
+				"/Game/SubcultureGirl/ThirdPersonTemplate/Geometry/Meshes/CubeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "89D1E3824D22C160CDFFAAEAC1F918ED777C7B0F",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "8E3344DAE2F371576F0855308D79F922642793AA",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/Headgears/GlassesCommonA/M_RefractionFresnel_02",
+				"/Game/SubcultureGirl/Materials/Props/Headgears/SunglassesA/M_RefractionFresnel01",
+				"/Game/SubcultureGirl/Materials/Props/Headgears/GlassesRoundShapeA/M_RefractionFresnel01"
+			]
+		},
+		{
+			"ShaderMapHash": "04F85185D9CEE3E411272CFC1965BADAC3D35FF0",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/Headgears/GlassesCommonA/MI_GlassesC_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "4FAD9B568539E8869B24FD7474CD7D61D6EADFC9",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/Headgears/SunglassesA/M_SunglassesFramesA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "5CBBBE5FF189A2C0390999F0122D6D02DAAB4CAC",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/Headgears/SunglassesA/M_SunglassesVisorA_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "B72D708E6763F9AC73FE7AD3B7BF7EA6B80B0458",
+			"Assets": [
+				"/Game/Common/media/BillboardMediaPlayer_Video_Mat",
+				"/Game/Common/media/BillboardMediaPlayer9_Video_Mat",
+				"/Game/Common/media/BillboardMediaPlayer8_Video_Mat",
+				"/Game/Common/media/BillboardMediaPlayer7_Video_Mat",
+				"/Game/Common/media/BillboardMediaPlayer6_Video_Mat",
+				"/Game/Common/media/BillboardMediaPlayer5_Video_Mat",
+				"/Game/Common/media/BillboardMediaPlayer4_Video_Mat",
+				"/Game/Common/media/BillboardMediaPlayer3_Video_Mat",
+				"/Game/Common/media/BillboardMediaPlayer2_Video_Mat",
+				"/Game/Common/media/BillboardMediaPlayer1_Video_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "5A9D4F78CDD9E5EC2CF5EEDBFE88BF943FE681B1",
+			"Assets": [
+				"/Engine/VREditor/BasicMeshes/M_Floor_01"
+			]
+		},
+		{
+			"ShaderMapHash": "1B7BF7333C14663F5F83CA41519C786BFB4968BA",
+			"Assets": [
+				"/Game/Common/paint/Decal"
+			]
+		},
+		{
+			"ShaderMapHash": "6B66CC9CF05760316A259FD3533E320836B76F46",
+			"Assets": [
+				"/Game/Common/Matrials/Emission_pbr",
+				"/Game/Common/Matrials/WWJ_HongSe",
+				"/Game/Common/Matrials/WWJ_BaiSe_Zhuti"
+			]
+		},
+		{
+			"ShaderMapHash": "3B3CEF2A36A84E332E98AC5A34D4D6A389880742",
+			"Assets": [
+				"/Game/Common/Matrials/Emission4"
+			]
+		},
+		{
+			"ShaderMapHash": "80BB001D02A364CD0CF1CC0D38E21E5BB2AA7B1D",
+			"Assets": [
+				"/Game/Common/Matrials/M_Eye"
+			]
+		},
+		{
+			"ShaderMapHash": "0AA88B7549AFE7640ED7961E789F11FD34D0838D",
+			"Assets": [
+				"/Game/Common/Matrials/HD_wawaji_Sphere1",
+				"/Game/Common/Matrials/HD_wawaji_Sphere"
+			]
+		},
+		{
+			"ShaderMapHash": "F4480A1E5F1DDBCA02D3BF04F9CD115F894A84F5",
+			"Assets": [
+				"/Game/Common/Matrials/WWJ_MG_Logo1"
+			]
+		},
+		{
+			"ShaderMapHash": "06E095EA9536936B78E6F99B13B7412432FCA91E",
+			"Assets": [
+				"/Game/Common/Matrials/MI_Vending_machine_export_Cube_1"
+			]
+		},
+		{
+			"ShaderMapHash": "4FADDB12BCD2928AC24CC68565CD9D569A3520A3",
+			"Assets": [
+				"/Game/Common/Matrials/MI_Vending_machine_export_Cube_1_02",
+				"/Game/Common/Matrials/MI_Vending_machine_export_Cube_1_03",
+				"/Game/Common/Matrials/MI_Vending_machine_export_Cube_1_05"
+			]
+		},
+		{
+			"ShaderMapHash": "9676CFF701891E47397AB22ACE24967AADFF813B",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "34B9FFFFA6A017221BCA644FD7CCE4570FF631A1",
+			"Assets": [
+				"/Game/Common/Matrials/CSM_02"
+			]
+		},
+		{
+			"ShaderMapHash": "DB76A94F1658C2E357B5F62FED6D65B28CC5D35F",
+			"Assets": [
+				"/Game/Common/Matrials/CSM_01"
+			]
+		},
+		{
+			"ShaderMapHash": "7E34DBE50AA327B8FCC30C443FF065A909425915",
+			"Assets": [
+				"/Game/Common/Matrials/PBR"
+			]
+		},
+		{
+			"ShaderMapHash": "529095B4ED61CEAC2BB34EF80A4BB7902B5147B4",
+			"Assets": [
+				"/Game/Environment/Map/BlueMap/Mesh/Color"
+			]
+		},
+		{
+			"ShaderMapHash": "41B3771BAD1593DF9AE814502CEEB28356BCEB06",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "4E6C56AFA7218D20A186AB2F87350C27F9EF0471",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Material_005"
+			]
+		},
+		{
+			"ShaderMapHash": "6C91155DA96703FE5DBDFDB4ABEB1CFC34224882",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/emission"
+			]
+		},
+		{
+			"ShaderMapHash": "6F8F9FB0FCD8BE4F29786409DA81695D4862FA27",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/cloth"
+			]
+		},
+		{
+			"ShaderMapHash": "8278BB2BE664F0A35A766075C5404B0AE6186044",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/M_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "248B90F8149DD4E11FBDDF11DD6678DF4C7108A1",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/translucent_001"
+			]
+		},
+		{
+			"ShaderMapHash": "09653D2E90AC0FC25C9A689810697C40CE204371",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Cover_book_01"
+			]
+		},
+		{
+			"ShaderMapHash": "9B6FDD8486D3664D6D358ADB68B0D955E09C76EA",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/paper"
+			]
+		},
+		{
+			"ShaderMapHash": "4E6A66F585E559E9602B09CE60CF29130B6F3AFB",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Marble_7"
+			]
+		},
+		{
+			"ShaderMapHash": "7FE2DAC4D6ABF5D58B4D09A93CD61F26FC2C9F4B",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/untensils"
+			]
+		},
+		{
+			"ShaderMapHash": "4A83B226AA6A0CC284D127E46CBA2730AF9CDC6A",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Ratten"
+			]
+		},
+		{
+			"ShaderMapHash": "86EF7611C80230BC2294B4282D4ABFBE919D0A4D",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/napkin_holder_copper_002"
+			]
+		},
+		{
+			"ShaderMapHash": "621D4823363E547B6D74BAC689780663AA66CD64",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Ceramic_Glazed"
+			]
+		},
+		{
+			"ShaderMapHash": "3A5CEFCFE274962590DA71FF672572C6A6EBD49F",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/dining_ceramic_white"
+			]
+		},
+		{
+			"ShaderMapHash": "CF2B1DFC4047775DADC0045030BEC46E1E64C8FE",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/napkin_holder_copper_001"
+			]
+		},
+		{
+			"ShaderMapHash": "CBAD4A110F58E61E067551189B7DEA233FA80B2C",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/napkin_holder_copper"
+			]
+		},
+		{
+			"ShaderMapHash": "09ADEBDA0E7E36C24521A78A45671A3EEA3E395C",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Procedral_White_Silk"
+			]
+		},
+		{
+			"ShaderMapHash": "682C815D784DBA500FD1638FDC41D6D5FB2427A1",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Brushed_Gold_With_Imperfections"
+			]
+		},
+		{
+			"ShaderMapHash": "9D94C26E9C21B8AE14958EAFBE98DD914F969B38",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Procedural_Crystal_001"
+			]
+		},
+		{
+			"ShaderMapHash": "F777F96335D5D105202B5989E383C94312A30136",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/vray_Material__1109051753"
+			]
+		},
+		{
+			"ShaderMapHash": "5720D3D712BF3CF35E3B06C81734602640A71FAF",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master2/yellow_005"
+			]
+		},
+		{
+			"ShaderMapHash": "F939C8379824B0C3DADA365548B1FAB430D9834D",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master2/pink_005"
+			]
+		},
+		{
+			"ShaderMapHash": "BCF457A4267FA9C79D5AA590557106BAAEAF6C4E",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master2/Material__5_005"
+			]
+		},
+		{
+			"ShaderMapHash": "E24BCDEBF3F0B66CFD8CA3094BCF0F7E8135A60E",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master2/Material__5159_002"
+			]
+		},
+		{
+			"ShaderMapHash": "A457A12370445EAA88705E1925DE7E6380CE3220",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master2/Material__5149_002"
+			]
+		},
+		{
+			"ShaderMapHash": "C84B03554D312E6EA128E983001B63773648495D",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master2/Material__38_004"
+			]
+		},
+		{
+			"ShaderMapHash": "2D440C3CD429FA5CC5512D019353F28CD2AEEFCE",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master2/Material__37_004"
+			]
+		},
+		{
+			"ShaderMapHash": "60F6CC72D9919BFD7BFBC644811733ABC9D4D7A7",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master2/Material__36_004"
+			]
+		},
+		{
+			"ShaderMapHash": "84F28B2C712B5592BEB3D2AD74DFD146E933AFD7",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master2/Material__16_004"
+			]
+		},
+		{
+			"ShaderMapHash": "18F548796CB9D7BD29A297E125040D90E933999F",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master2/Material__5151_003"
+			]
+		},
+		{
+			"ShaderMapHash": "185D1415E3F9D1664D942B64D0CD2B9C6D05F3A1",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master2/Material__5149_003"
+			]
+		},
+		{
+			"ShaderMapHash": "DCEB136FAF1ADFE87A68374E88B8576F46016AAB",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master2/Material__38_005"
+			]
+		},
+		{
+			"ShaderMapHash": "ED2C4C0ABBDBDCBD1971D96CA7C4DDEEE12979BB",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master2/Material__37_005"
+			]
+		},
+		{
+			"ShaderMapHash": "2062071983E898FEC2AACC373D8226CB0910661E",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master2/Material__36_005"
+			]
+		},
+		{
+			"ShaderMapHash": "C816F854081DB887DFDB09DF850AE3631BFE4A9F",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master2/Material__16_005"
+			]
+		},
+		{
+			"ShaderMapHash": "F4F15BC2366F54B461C5662FBF102C54B77E6956",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Material__7613"
+			]
+		},
+		{
+			"ShaderMapHash": "D81A1A8AD3DD9C9DF84E4376431FAB35266E5C2B",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/7"
+			]
+		},
+		{
+			"ShaderMapHash": "87465F332CB2AC6017BF36A1FFFDC5A8FD72F903",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Leather_procedural"
+			]
+		},
+		{
+			"ShaderMapHash": "E001806BE9AEF18A44039A2126BD28ED1CD276A1",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Maple_wood_texture"
+			]
+		},
+		{
+			"ShaderMapHash": "8790C331C6EE0F9EDCFB95FA8CEE1E92C3C251D7",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Old_Wood"
+			]
+		},
+		{
+			"ShaderMapHash": "2CD95386B7232236945F2D360B55889C56AE4F62",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Material__2125641683"
+			]
+		},
+		{
+			"ShaderMapHash": "8B1D6FC3FA32A1A743DCF5488191D58362D1E2F3",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/glasst"
+			]
+		},
+		{
+			"ShaderMapHash": "588C51DF0AAFF6BB39582DC33083061400ECC191",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Material__8308100"
+			]
+		},
+		{
+			"ShaderMapHash": "DFE34C3DDE23EE4C3344B64F2C64E6C6D9B29414",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Material__8308101"
+			]
+		},
+		{
+			"ShaderMapHash": "1088E18952379DC1BCB4C5E01BF61F9A529E1656",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Bedrock_stone_stool"
+			]
+		},
+		{
+			"ShaderMapHash": "65C63C70F9A9977E838D04F48EE5B4AEB1D8F778",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master2/Material__5158_003"
+			]
+		},
+		{
+			"ShaderMapHash": "302F29AAA7B066E73DE07CC45E501A37F290AA7B",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master2/asd_003"
+			]
+		},
+		{
+			"ShaderMapHash": "94E596EB24946F9FD8F645911B94A5AD067AA2C4",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/flame"
+			]
+		},
+		{
+			"ShaderMapHash": "3FA6F0F204D345D3DFCBB31E0B5976542BED36F9",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/wick"
+			]
+		},
+		{
+			"ShaderMapHash": "0488A5EEF3B8DA91D6B909A9E0F423731D16A2F7",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Wine_decanter"
+			]
+		},
+		{
+			"ShaderMapHash": "512B6E375E50536FC24DC339709A96E6AD105FDF",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/M_Rock"
+			]
+		},
+		{
+			"ShaderMapHash": "212DA9588491DEAF3904B4D15D28B95C8E8A94AC",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Material_001"
+			]
+		},
+		{
+			"ShaderMapHash": "7F50CE22D457F952CECCA85763234E6C8DA6CE16",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/M_Wall_Interior"
+			]
+		},
+		{
+			"ShaderMapHash": "1CD30431AE9B8A6DA45D775A9A5D211D8ACC4CA1",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/M_Water2"
+			]
+		},
+		{
+			"ShaderMapHash": "A59945485447C657C17581F15BE17F0E26F41C73",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/M_Wall"
+			]
+		},
+		{
+			"ShaderMapHash": "6CD4D4371A456D13FADAD49D73A6308C8C15726D",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/M_Sky"
+			]
+		},
+		{
+			"ShaderMapHash": "235CD814EFD885BD3A5449021788F58CD9CD78DE",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/M_Sand_Above",
+				"/Game/Environment/Map/AEON_001/Materia_Instance/MI_Sand_Yellow"
+			]
+		},
+		{
+			"ShaderMapHash": "07550B224D8FA74668A742C492060224AAA230FF",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/M_Sand"
+			]
+		},
+		{
+			"ShaderMapHash": "A3550652F6BA1EA782B3E5217B91767757C68C60",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/shinny_white"
+			]
+		},
+		{
+			"ShaderMapHash": "7360401BE171E716D7770613DCE72F905244AACA",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/concrete"
+			]
+		},
+		{
+			"ShaderMapHash": "0BEE4AE71109154A4363CBD2BBE4B7C332057C9A",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7DECE26AD4D17D0B4F215563ECFE6523965CAFFF",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/cover_book"
+			]
+		},
+		{
+			"ShaderMapHash": "DC6CCA4D1846E422F0F76FD92BDA096C4BB06EFD",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/book_content"
+			]
+		},
+		{
+			"ShaderMapHash": "9012F8A6C21E0F1D9E2A4F5BA5EEA7C39352059E",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/black_detail_book"
+			]
+		},
+		{
+			"ShaderMapHash": "478FAAB644CD0119B6B13225729506F41101714B",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/metal"
+			]
+		},
+		{
+			"ShaderMapHash": "196DC0FA996912B80C829B4B79D01554646A6E9A",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/black_metal_001"
+			]
+		},
+		{
+			"ShaderMapHash": "3424DB02FC6B1CC38CD23A2E92ACDD3FA580EFBE",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/M_Lantern"
+			]
+		},
+		{
+			"ShaderMapHash": "8DDF92D04283BD869F15DDFEE20136C04AFE8E01",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/M_Garden"
+			]
+		},
+		{
+			"ShaderMapHash": "892456212617724648C9A48F44A448CCB8859BDB",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/M_Carpet"
+			]
+		},
+		{
+			"ShaderMapHash": "0685421F4BD9EFA3A3B3F7EFB7731BE2D2D8D7E9",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Materia_Instance/MI_Billboard"
+			]
+		},
+		{
+			"ShaderMapHash": "6FE126D4B9D33A2C60B5E162C34738085DDD74CF",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Scene/AEON_00101"
+			]
+		},
+		{
+			"ShaderMapHash": "EB5DE338D1F9EE7136CC77B907D215A4FCC2A0DA",
+			"Assets": [
+				"/Game/Environment/LightMaps/Materials/M_BackgoundPlane"
+			]
+		},
+		{
+			"ShaderMapHash": "DA190D89FBDE01F00018C72ACB5293937F6279DD",
+			"Assets": [
+				"/Game/Environment/LightMaps/Materials/M_BackGlow"
+			]
+		},
+		{
+			"ShaderMapHash": "8A98E1A91AB659BF4FC52BA8344DAE268ABB159F",
+			"Assets": [
+				"/Game/SubcultureGirl/ThirdPersonTemplate/Mannequin/Character/Materials/M_UE4Man_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "1434D1FB5DC99E5BC20B213B2E32675B4DF1CA19",
+			"Assets": [
+				"/Game/SubcultureGirl/ThirdPersonTemplate/Mannequin/Character/Materials/M_UE4Man_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "400A2A69DA5B2578B40CB2F12BDDF4A43F379C8B",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Skin_Body/Skin_BodyBase/MaterialInstances/MI_SkinHead_NoMakeUp"
+			]
+		},
+		{
+			"ShaderMapHash": "6D484806C6B730C2B665A14BEEA2074A5F3356A1",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/Headgears/GlassesCommonA/M_GlassesCVisor_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "AD01D8CA98FCE49110AFBE24FC64CD7063DF568F",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Props/Headgears/BandanaA/MaterialInstance/MI_BandanaA_03"
+			]
+		},
+		{
+			"ShaderMapHash": "6B509A784087F8671CA0C0C9B7B98CB4A9195D1B",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/EyeBall/M_CGirl_EyeShadow_01"
+			]
+		},
+		{
+			"ShaderMapHash": "347344D7567CC425517C0782122C482CE7C9B104",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Env/M_Sharpen"
+			]
+		},
+		{
+			"ShaderMapHash": "D90691FE7BB787DBBAAE104F7EF6EF8DF210F793",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Env/M_Floor_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "FD951588B7D03F10630E612FBBA4306CC11FE472",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtHeart_02",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtA_Stripes2",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtA_Stripes1",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtA_Stripes",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtA_Dots_01",
+				"/Game/SubcultureGirl/Materials/Clothes/TShirtA/MaterialInstance/MI_CGirl_TShirtA_Common_05"
+			]
+		},
+		{
+			"ShaderMapHash": "4FDA63613251F4508E2CC8512AC24EC976BCF0E9",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniA/MaterialInstance/MI_CGirl_SkirtMini_StripesA2",
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniA/MaterialInstance/MI_CGirl_SkirtMini_StripesA1",
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniA/MaterialInstance/MI_CGirl_SkirtMini_StripesA",
+				"/Game/SubcultureGirl/Materials/Clothes/SkirtMiniA/MaterialInstance/MI_CGirl_SkirtMini_Dots"
+			]
+		},
+		{
+			"ShaderMapHash": "8E21791564BD9A580AB1C22C7EA562CACFA3505E",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/Pants_Denim/MaterialInstance/MI_CGirl_PantsDenimB_02"
+			]
+		},
+		{
+			"ShaderMapHash": "8D135749ADF9465740656A115F77ED4A22C68925",
+			"Assets": [
+				"/Game/SubcultureGirl/Materials/Clothes/Pants_Denim/MaterialInstance/MI_CGirl_PantsDenimB_01"
+			]
+		},
+		{
+			"ShaderMapHash": "26FACC985E1BFCE949A7BE3EB58851A770D80544",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/yellow_005"
+			]
+		},
+		{
+			"ShaderMapHash": "D4A37E63131A11DC97406D8BA38F357943E86D27",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/pink_005"
+			]
+		},
+		{
+			"ShaderMapHash": "307DE3CB2DE6542241077DB4550F47EA6A345E69",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Material__5_005"
+			]
+		},
+		{
+			"ShaderMapHash": "1A91FC882098F2C3538902219F8C1609CD6595AF",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Material__5159_002"
+			]
+		},
+		{
+			"ShaderMapHash": "F1E26AB45419C33F55B14E0D9D073CAA7F9BAEC9",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Material__38_004"
+			]
+		},
+		{
+			"ShaderMapHash": "317B97ACCC924F4E9CE5BFF2C758335720022D7A",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Material__37_004"
+			]
+		},
+		{
+			"ShaderMapHash": "131DB5ADD91A31292DC46E091C6D5DF3E07FD2F7",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Material__36_004"
+			]
+		},
+		{
+			"ShaderMapHash": "03F01F120AC8CD5D12EAB346223A490FEBAA56E4",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Material__38_005"
+			]
+		},
+		{
+			"ShaderMapHash": "01B218CCF7D7987CF340A4F04E22964CEC091B34",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Material__37_005"
+			]
+		},
+		{
+			"ShaderMapHash": "A0D9F523AA99AD13E19E332458E58036B4837CAF",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Material__36_005"
+			]
+		},
+		{
+			"ShaderMapHash": "BB92DC39E259BFAD099A74A4D699C70F4F29BDFE",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Material__16_005"
+			]
+		},
+		{
+			"ShaderMapHash": "7A363F0FB743B8221B9BBA5B3AF190D7352265B4",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/asd_003"
+			]
+		},
+		{
+			"ShaderMapHash": "0A603C334F73F137389A8BC6DD4E8A9CD4328F28",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Material__5151_003"
+			]
+		},
+		{
+			"ShaderMapHash": "D6514B5C2A6B5FE8F1CB0B2BEE68E64649DDD86E",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Material__5149_003"
+			]
+		},
+		{
+			"ShaderMapHash": "C0A5528CDF87C26A4C54EEA41AFC67746C2B5AB7",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Material__4828_004"
+			]
+		},
+		{
+			"ShaderMapHash": "99CF9816ACD362979A2C90DFB5E3748BBBB14C28",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Material__4830_004"
+			]
+		},
+		{
+			"ShaderMapHash": "6E0D2C86D4D4D7B665C0E79487DD84984CA99036",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Wall_stone_smooth_floor"
+			]
+		},
+		{
+			"ShaderMapHash": "F9A688BCDACC2937E8BBEF6E18F30545A8C039D0",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Wall_stone_smooth",
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Wall_stone_rough",
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Wall_stone_rough_veersion2"
+			]
+		},
+		{
+			"ShaderMapHash": "4CCB7BCC964F01A66E0129391F6E985FA81B720E",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/M_Water"
+			]
+		},
+		{
+			"ShaderMapHash": "57903601028425C5AA923715310AE19854D4FC16",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/M_Sand_Below"
+			]
+		},
+		{
+			"ShaderMapHash": "FE1CBA4B32C49D331EDBC2C7477D739676B4548D",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Smooth_Gold"
+			]
+		},
+		{
+			"ShaderMapHash": "33E748DC2189B1BD8E184EBC898B83758B68EDF0",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/Material_001"
+			]
+		},
+		{
+			"ShaderMapHash": "AF700CC13035ABC4E040840A54221FABAC11731F",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/GOld"
+			]
+		},
+		{
+			"ShaderMapHash": "5CABDE9816401E25091E7BBB549F2DCDE96CEB12",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/default_material_004"
+			]
+		},
+		{
+			"ShaderMapHash": "1DF83264B922FAE9FF06EE9FBDD3430447610A1C",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/default_material_003",
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/default_material_002"
+			]
+		},
+		{
+			"ShaderMapHash": "FC0213EF2CAE279AA02B0B04D593028144F21676",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/default_material_001"
+			]
+		},
+		{
+			"ShaderMapHash": "5A88E6EB56F36E9161B73DDE9BA4884C9CA1FBC2",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "2F1FF7CE83E3A068692BB0ECC77D01F230EB9180",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/B"
+			]
+		},
+		{
+			"ShaderMapHash": "7938342618B67810800E89F25E4A08064A2F9797",
+			"Assets": [
+				"/Game/Environment/Map/AEON_001/Material/Datasmith_Material/Master/A"
+			]
+		}
+	]
+}

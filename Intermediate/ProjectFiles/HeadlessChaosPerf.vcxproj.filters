@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\HeadlessChaosPerf\HeadlessChaosPerf.Target.cs" />
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\HeadlessChaosPerf\HeadlessChaosPerf.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{2B839EEE-4C3B-4564-931A-21FB69B62123}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="F:\UE_4.27_source\Engine\Source\Programs\HeadlessChaosPerf\Private\HeadlessChaosPerfApp.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <Filter Include="Private\ChaosPerf">
+      <UniqueIdentifier>{9A87CD6F-B0B7-4F33-8075-FD341C66B33A}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="F:\UE_4.27_source\Engine\Source\Programs\HeadlessChaosPerf\Private\ChaosPerf\ChaosPerf.h">
+      <Filter>Private\ChaosPerf</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\UE_4.27_source\Engine\Source\Programs\HeadlessChaosPerf\Private\ChaosPerf\ChaosPerfLog.h">
+      <Filter>Private\ChaosPerf</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\UE_4.27_source\Engine\Source\Programs\HeadlessChaosPerf\Private\ChaosPerf\ChaosPerfProfiling.h">
+      <Filter>Private\ChaosPerf</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\UE_4.27_source\Engine\Source\Programs\HeadlessChaosPerf\Private\ChaosPerf\ChaosPerfTest.h">
+      <Filter>Private\ChaosPerf</Filter>
+    </ClInclude>
+    <Filter Include="Private\ChaosPerf\PerfTests">
+      <UniqueIdentifier>{1502F02E-208C-402D-A72F-8954639EDE7A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="F:\UE_4.27_source\Engine\Source\Programs\HeadlessChaosPerf\Private\ChaosPerf\PerfTests\ChaosPerfProfilerTests.cpp">
+      <Filter>Private\ChaosPerf\PerfTests</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

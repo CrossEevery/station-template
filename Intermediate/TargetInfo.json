@@ -1,0 +1,19 @@
+{
+	"Targets": [
+		{
+			"Name": "dediServer",
+			"Path": "E:\\BaiduNetdiskDownload\\AEON_Scene\\AEON_Scene\\dediServer\\Source\\dediServer.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "dediServerEditor",
+			"Path": "E:\\BaiduNetdiskDownload\\AEON_Scene\\AEON_Scene\\dediServer\\Source\\dediServerEditor.Target.cs",
+			"Type": "Editor"
+		},
+		{
+			"Name": "dediServerServer",
+			"Path": "E:\\BaiduNetdiskDownload\\AEON_Scene\\AEON_Scene\\dediServer\\Source\\dediServerServer.Target.cs",
+			"Type": "Server"
+		}
+	]
+}

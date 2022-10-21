@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\TextureShare\TextureShareSDK\TextureShareSDK.Target.cs" />
+    <None Include="F:\UE_4.27_source\Engine\Source\Programs\TextureShare\TextureShareSDK\TextureShareSDK.Build.cs" />
+    <Filter Include="Private">
+      <UniqueIdentifier>{366D88BB-F27B-4DC7-AA5E-F6EC6154CD28}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="F:\UE_4.27_source\Engine\Source\Programs\TextureShare\TextureShareSDK\Private\TextureShareDLL.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <ClCompile Include="F:\UE_4.27_source\Engine\Source\Programs\TextureShare\TextureShareSDK\Private\TextureShareInterface.cpp">
+      <Filter>Private</Filter>
+    </ClCompile>
+    <Filter Include="Public">
+      <UniqueIdentifier>{CD6AF62C-4EB4-42B6-87A7-988B700D4D47}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="F:\UE_4.27_source\Engine\Source\Programs\TextureShare\TextureShareSDK\Public\TextureShareContainers.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\UE_4.27_source\Engine\Source\Programs\TextureShare\TextureShareSDK\Public\TextureShareDLL.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+    <ClInclude Include="F:\UE_4.27_source\Engine\Source\Programs\TextureShare\TextureShareSDK\Public\TextureShareInterface.h">
+      <Filter>Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
